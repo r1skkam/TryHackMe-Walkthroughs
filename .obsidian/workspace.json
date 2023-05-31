@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "98a4cf4848a7050b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "seasurfer (31May23Wed).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "23ab585eb9243c3b",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "valleype/valleype.txt.md",
+                "file": "seasurfer (31May23Wed).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "valleype/valleype.txt.md",
+                "file": "seasurfer (31May23Wed).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "valleype/valleype.txt.md"
+                "file": "seasurfer (31May23Wed).md"
               }
             }
           }
@@ -147,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca1da660c16bf9f5",
+  "active": "98a4cf4848a7050b",
   "lastOpenFiles": [
+    "valleype/valleype.txt.md",
+    "seasurfer (31May23Wed).md",
     "Pasted image 20230527195025.png",
     "Pasted image 20230527194652.png",
     "Pasted image 20230527194252.png",
@@ -163,9 +177,7 @@
     "Pasted image 20230527191348.png",
     "valleype/valleyAuthenticator.md",
     "valleype/user.txt.md",
-    "valleype/valleype.txt.md",
     "Pasted image 20230527190917.png",
-    "Pasted image 20230527190707.png",
     "valleype/upx.md",
     "valleype/scp.md",
     "valleype/pcap.md",
@@ -177,7 +189,6 @@
     "valleype/feroxbuster.md",
     "README.md",
     "valleype/valleype.html.md",
-    "Untitled.md",
     "valleype"
   ]
 }

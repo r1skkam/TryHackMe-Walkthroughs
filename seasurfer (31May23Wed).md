@@ -28,6 +28,14 @@ Nmap done: 1 IP address (1 host up) scanned in 27.10 seconds
 echo "10.10.90.23 seasurfer.thm" | sudo tee -a /etc/hosts
 ```
 
+http://seasurfer.thm/
+
 ![[Pasted image 20230531072102.png]]
+
+http://internal.seasurfer.thm/
+
+![[Pasted image 20230531201310.png]]
+
+
 
 

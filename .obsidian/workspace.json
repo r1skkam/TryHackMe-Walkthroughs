@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e26028187cedec1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "seasurfer (31May23Wed).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 332.5
   },
   "right": {
     "id": "23ab585eb9243c3b",
@@ -159,19 +171,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98a4cf4848a7050b",
+  "active": "e26028187cedec1f",
   "lastOpenFiles": [
-    "Pasted image 20230602094016.png",
-    "Pasted image 20230602092733.png",
-    "Pasted image 20230602092529.png",
-    "Pasted image 20230602085543.png",
-    "Pasted image 20230602083008.png",
-    "Pasted image 20230602082624.png",
-    "Pasted image 20230602081315.png",
-    "Pasted image 20230602080655.png",
-    "Pasted image 20230602080632.png",
-    "Pasted image 20230602080123.png",
-    "Pasted image 20230602075708.png",
+    "Pasted/Pasted image 20230527171349.png",
+    "Pasted",
+    "Pasted/Pasted image 20230602094016.png",
+    "Pasted/Pasted image 20230602092733.png",
+    "Pasted/Pasted image 20230602092529.png",
+    "Pasted/Pasted image 20230602085543.png",
+    "Pasted/Pasted image 20230602083008.png",
+    "Pasted/Pasted image 20230602082624.png",
+    "Pasted/Pasted image 20230602081315.png",
+    "Pasted/Pasted image 20230602080655.png",
+    "Pasted/Pasted image 20230602080632.png",
+    "Pasted/Pasted image 20230602080123.png",
     "valleype/valleype.txt.md",
     "seasurfer (31May23Wed).md",
     "valleype/ssh.md",

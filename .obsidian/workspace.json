@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "seasurfer (31May23Wed).md",
+                "file": "solar/solar.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "seasurfer (31May23Wed).md",
+                "file": "solar/solar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "seasurfer (31May23Wed).md",
+                "file": "solar/solar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "seasurfer (31May23Wed).md"
+                "file": "solar/solar.md"
               }
             }
           }
@@ -173,6 +173,9 @@
   },
   "active": "e26028187cedec1f",
   "lastOpenFiles": [
+    "seasurfer (31May23Wed).md",
+    "solar/solar.md",
+    "solar",
     "Pasted/Pasted image 20230527171349.png",
     "Pasted",
     "Pasted/Pasted image 20230602094016.png",
@@ -184,9 +187,7 @@
     "Pasted/Pasted image 20230602081315.png",
     "Pasted/Pasted image 20230602080655.png",
     "Pasted/Pasted image 20230602080632.png",
-    "Pasted/Pasted image 20230602080123.png",
     "valleype/valleype.txt.md",
-    "seasurfer (31May23Wed).md",
     "valleype/ssh.md",
     "valleype/pass.txt.md",
     "valleype/hydra.md",

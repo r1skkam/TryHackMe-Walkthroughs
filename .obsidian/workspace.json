@@ -35,11 +35,9 @@
             "id": "e26028187cedec1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "solar/solar.md",
-                "mode": "source",
-                "source": false
+                "file": "solar/Pasted-solar/Pasted image 20230606100945.png"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "solar/solar.md",
+                "file": "solar/Pasted-solar/Pasted image 20230606100945.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "solar/solar.md",
+                "file": "solar/Pasted-solar/Pasted image 20230606100945.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "solar/solar.md"
+                "file": "solar/Pasted-solar/Pasted image 20230606100945.png"
               }
             }
           }
@@ -173,11 +171,15 @@
   },
   "active": "952a494e6ab58534",
   "lastOpenFiles": [
+    "solar/solar.md",
+    "solar/Pasted-solar/Pasted image 20230606101903.png",
+    "solar/Pasted-solar/Pasted image 20230606101814.png",
+    "solar/Pasted-solar/Pasted image 20230606101210.png",
+    "solar/Pasted-solar/Pasted image 20230606100945.png",
     "solar/Pasted-solar",
     "Untitled",
     "solar/Pasted-solar/Pasted image 20230606100110.png",
     "seasurfer (31May23Wed).md",
-    "solar/solar.md",
     "solar",
     "Pasted/Pasted image 20230527171349.png",
     "Pasted",
@@ -185,10 +187,6 @@
     "Pasted/Pasted image 20230602092733.png",
     "Pasted/Pasted image 20230602092529.png",
     "Pasted/Pasted image 20230602085543.png",
-    "Pasted/Pasted image 20230602083008.png",
-    "Pasted/Pasted image 20230602082624.png",
-    "Pasted/Pasted image 20230602081315.png",
-    "Pasted/Pasted image 20230602080655.png",
     "valleype/valleype.txt.md",
     "valleype/ssh.md",
     "valleype/pass.txt.md",

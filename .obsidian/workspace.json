@@ -8,41 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca1da660c16bf9f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "valleype/valleype.txt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98a4cf4848a7050b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "seasurfer (31May23Wed).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e26028187cedec1f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "solar/Pasted-solar/Pasted image 20230606100945.png"
+                "file": "raceconditions/raceconditions.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "solar/Pasted-solar/Pasted image 20230606100945.png",
+                "file": "raceconditions/raceconditions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "solar/Pasted-solar/Pasted image 20230606100945.png",
+                "file": "raceconditions/raceconditions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "solar/Pasted-solar/Pasted image 20230606100945.png"
+                "file": "raceconditions/raceconditions.md"
               }
             }
           }
@@ -169,25 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "952a494e6ab58534",
+  "active": "e26028187cedec1f",
   "lastOpenFiles": [
+    "raceconditions/Pasted/Pasted image 20230610073726.png",
+    "raceconditions/bankingsystem.c.md",
+    "raceconditions/Pasted",
+    "raceconditions/raceconditions.md",
+    "raceconditions/cat2.c.md",
+    "raceconditions/Pasted/Pasted image 20230610073349.png",
+    "raceconditions/Pasted/Pasted image 20230610073052.png",
+    "raceconditions/Pasted/Pasted image 20230610072918.png",
+    "raceconditions/Pasted/Pasted image 20230610072652.png",
+    "raceconditions/Pasted/Pasted image 20230610072612.png",
+    "raceconditions/Pasted/Pasted image 20230610072324.png",
+    "raceconditions/Pasted/Pasted image 20230610072259.png",
+    "raceconditions/anti_flag_reader.c.md",
+    "raceconditions/Pasted/Pasted image 20230610071824.png",
+    "raceconditions/Pasted/Pasted image 20230610071551.png",
     "solar/solar.md",
-    "solar/Pasted-solar/Pasted image 20230606101903.png",
-    "solar/Pasted-solar/Pasted image 20230606101814.png",
-    "solar/Pasted-solar/Pasted image 20230606101210.png",
-    "solar/Pasted-solar/Pasted image 20230606100945.png",
+    "valleype/valleype.txt.md",
+    "raceconditions",
     "solar/Pasted-solar",
-    "Untitled",
-    "solar/Pasted-solar/Pasted image 20230606100110.png",
     "seasurfer (31May23Wed).md",
     "solar",
-    "Pasted/Pasted image 20230527171349.png",
     "Pasted",
-    "Pasted/Pasted image 20230602094016.png",
-    "Pasted/Pasted image 20230602092733.png",
-    "Pasted/Pasted image 20230602092529.png",
-    "Pasted/Pasted image 20230602085543.png",
-    "valleype/valleype.txt.md",
     "valleype/ssh.md",
     "valleype/pass.txt.md",
     "valleype/hydra.md",

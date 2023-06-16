@@ -1,0 +1,12 @@
+alert:
+- debug
+description: Placeholder
+filter:
+- query_string:
+    query: zeek.dns.answers:"placeholder"
+index: filebeat-*
+name: Placeholder
+priority: 2
+realert:
+  minutes: 0
+type: any

@@ -66,3 +66,12 @@ http://10.10.202.229:8000/
 
 ![[Pasted image 20230610073726.png]]
 
+![[Pasted image 20230611214454.png]]
+
+![[Pasted image 20230611214548.png]]
+
+[# File Path Race Condition & How To Prevent It - bin 0x31](https://www.youtube.com/watch?v=5g137gsB9Wk)
+
+[# Race Conditions - SY0-601 CompTIA Security+ : 1.3](https://youtu.be/zg_kTCOcinQ)
+
+

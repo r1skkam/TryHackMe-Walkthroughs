@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "threatintelligenceforsoc/Pasted/Pasted image 20230616141251.png"
+                "file": "threatintelligenceforsoc/Pasted/Pasted image 20230618203224.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "threatintelligenceforsoc/Pasted/Pasted image 20230616141251.png",
+                "file": "threatintelligenceforsoc/Pasted/Pasted image 20230618203224.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "threatintelligenceforsoc/Pasted/Pasted image 20230616141251.png",
+                "file": "threatintelligenceforsoc/Pasted/Pasted image 20230618203224.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "threatintelligenceforsoc/Pasted/Pasted image 20230616141251.png"
+                "file": "threatintelligenceforsoc/Pasted/Pasted image 20230618203224.png"
               }
             }
           }
@@ -147,21 +147,22 @@
   "active": "952a494e6ab58534",
   "lastOpenFiles": [
     "threatintelligenceforsoc/Threat Intelligence for SOC.md",
+    "threatintelligenceforsoc/Screenshot 2023-06-18 204704.png",
+    "threatintelligenceforsoc/Pasted/Pasted image 20230618203224.png",
+    "threatintelligenceforsoc/Pasted/Pasted image 20230618202333.png",
+    "threatintelligenceforsoc/uncoder-output-content.txt",
+    "threatintelligenceforsoc/Pasted/Pasted image 20230617215406.png",
+    "threatintelligenceforsoc/Pasted/Pasted image 20230617215321.png",
+    "threatintelligenceforsoc/Pasted/Pasted image 20230617214438.png",
+    "threatintelligenceforsoc/Pasted/Pasted image 20230616141251.png",
     "threatintelligenceforsoc/sinkhole.yaml",
     "threatintelligenceforsoc/config.yaml",
     "threatintelligenceforsoc/Pasted/Pasted image 20230616142017.png",
     "threatintelligenceforsoc/Pasted/Pasted image 20230616141950.png",
     "threatintelligenceforsoc/Pasted/Pasted image 20230616141733.png",
-    "threatintelligenceforsoc/Pasted/Pasted image 20230616141642.png",
-    "threatintelligenceforsoc/Pasted/Pasted image 20230616141605.png",
-    "threatintelligenceforsoc/Pasted/Pasted image 20230616141347.png",
-    "threatintelligenceforsoc/Pasted/Pasted image 20230616141251.png",
-    "raceconditions/Pasted/Pasted image 20230611214348.png",
     "threatintelligenceforsoc/Pasted",
     "threatintelligenceforsoc",
     "raceconditions/raceconditions.md",
-    "raceconditions/Pasted/Pasted image 20230611214548.png",
-    "raceconditions/Pasted/Pasted image 20230611214454.png",
     "raceconditions/anti_flag_reader.c.md",
     "raceconditions/cat2.c",
     "raceconditions/bankingsystem.c",
@@ -172,7 +173,6 @@
     "solar/solar.md",
     "valleype/valleype.txt.md",
     "raceconditions",
-    "solar/Pasted-solar",
     "seasurfer (31May23Wed).md",
     "valleype/ssh.md",
     "valleype/pass.txt.md",

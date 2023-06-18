@@ -57,3 +57,40 @@ http://10.10.144.88/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,val
 221.15.94.231
 ```
 
+```
+destination.ip:("117.213.7.8" OR "119.180.220.224" OR "144.202.127.44" OR "221.15.94.231")
+```
+
+![[Pasted image 20230617214438.png]]
+
+![[Pasted image 20230617215321.png]]
+
+
+```
+destination.ip:("135.181.103.89" OR "185.224.126.215" OR "185.224.128.215" OR "171.24.136.15" OR "171.22.136.15" OR "195.133.40.108" OR "103.190.37.169" OR "103.170.37.169" OR "107.175.202.151" OR "107.175.202.158" OR "109.206.240.194")
+```
+
+![[Pasted image 20230617215406.png]]
+
+```
+destination.ip:("185.224.128.215")
+```
+
+![[Pasted image 20230618202333.png]]
+
+```
+destination.ip:("107.175.202.151")
+```
+
+```
+destination.domain:("agrosaoxe.info")
+```
+
+![[Pasted image 20230618203224.png]]
+
+```
+dns.answers.data: "0.0.0.0"
+```
+
+
+

@@ -11,9 +11,11 @@
             "id": "243c21e16ce426cb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "threatintelligenceforsoc/Pasted/Pasted image 20230618203224.png"
+                "file": "threatintelligenceforsoc/Threat Intelligence for SOC.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "threatintelligenceforsoc/Pasted/Pasted image 20230618203224.png",
+                "file": "threatintelligenceforsoc/Threat Intelligence for SOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "threatintelligenceforsoc/Pasted/Pasted image 20230618203224.png",
+                "file": "threatintelligenceforsoc/Threat Intelligence for SOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "threatintelligenceforsoc/Pasted/Pasted image 20230618203224.png"
+                "file": "threatintelligenceforsoc/Threat Intelligence for SOC.md"
               }
             }
           }
@@ -144,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "952a494e6ab58534",
+  "active": "243c21e16ce426cb",
   "lastOpenFiles": [
+    "threatintelligenceforsoc/Pasted/Pasted image 20230618203224.png",
     "threatintelligenceforsoc/Threat Intelligence for SOC.md",
     "threatintelligenceforsoc/Screenshot 2023-06-18 204704.png",
-    "threatintelligenceforsoc/Pasted/Pasted image 20230618203224.png",
     "threatintelligenceforsoc/Pasted/Pasted image 20230618202333.png",
     "threatintelligenceforsoc/uncoder-output-content.txt",
     "threatintelligenceforsoc/Pasted/Pasted image 20230617215406.png",

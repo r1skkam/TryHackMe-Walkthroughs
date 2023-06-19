@@ -83,7 +83,7 @@ destination.ip:("107.175.202.151")
 ```
 
 ```
-destination.domain:("agrosaoxe.info")
+dns.question.name:"agrosaoxe.info"
 ```
 
 ![[Pasted image 20230618203224.png]]

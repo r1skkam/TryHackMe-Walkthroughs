@@ -11,11 +11,9 @@
             "id": "243c21e16ce426cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "threatintelligenceforsoc/Threat Intelligence for SOC.md",
-                "mode": "source",
-                "source": false
+                "file": "linuxstrengthtraining/Pasted/Pasted image 20230620174551.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "threatintelligenceforsoc/Threat Intelligence for SOC.md",
+                "file": "linuxstrengthtraining/Pasted/Pasted image 20230620174551.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "threatintelligenceforsoc/Threat Intelligence for SOC.md",
+                "file": "linuxstrengthtraining/Pasted/Pasted image 20230620174551.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "threatintelligenceforsoc/Threat Intelligence for SOC.md"
+                "file": "linuxstrengthtraining/Pasted/Pasted image 20230620174551.png"
               }
             }
           }
@@ -146,22 +144,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "243c21e16ce426cb",
+  "active": "952a494e6ab58534",
   "lastOpenFiles": [
-    "threatintelligenceforsoc/Pasted/Pasted image 20230619211200.png",
+    "linuxstrengthtraining/Linux Strength Training.md",
+    "linuxstrengthtraining/Pasted/Pasted image 20230620202633.png",
+    "linuxstrengthtraining/Pasted/Pasted image 20230620201732.png",
+    "linuxstrengthtraining/Pasted/Pasted image 20230620201352.png",
+    "linuxstrengthtraining/Pasted/Pasted image 20230620200752.png",
+    "linuxstrengthtraining/Pasted/Pasted image 20230620200534.png",
+    "linuxstrengthtraining/Pasted/Pasted image 20230620200041.png",
+    "linuxstrengthtraining/Pasted/Pasted image 20230620195507.png",
+    "linuxstrengthtraining/Pasted/Pasted image 20230620195032.png",
+    "linuxstrengthtraining/Pasted/Pasted image 20230620194707.png",
+    "linuxstrengthtraining/Pasted/Pasted image 20230620194328.png",
+    "linuxstrengthtraining/Pasted",
     "threatintelligenceforsoc/Threat Intelligence for SOC.md",
-    "threatintelligenceforsoc/Pasted/Pasted image 20230619214429.png",
-    "threatintelligenceforsoc/Pasted/Pasted image 20230619212041.png",
-    "threatintelligenceforsoc/Pasted/Pasted image 20230619213213.png",
+    "linuxstrengthtraining",
     "threatintelligenceforsoc/output.txt",
     "threatintelligenceforsoc/New Text Document.txt",
-    "threatintelligenceforsoc/Pasted/Pasted image 20230618203224.png",
-    "threatintelligenceforsoc/Screenshot 2023-06-18 204704.png",
-    "threatintelligenceforsoc/Pasted/Pasted image 20230618202333.png",
     "threatintelligenceforsoc/uncoder-output-content.txt",
-    "threatintelligenceforsoc/Pasted/Pasted image 20230617215406.png",
-    "threatintelligenceforsoc/Pasted/Pasted image 20230617215321.png",
-    "threatintelligenceforsoc/Pasted/Pasted image 20230617214438.png",
     "threatintelligenceforsoc/sinkhole.yaml",
     "threatintelligenceforsoc/config.yaml",
     "threatintelligenceforsoc/Pasted",
@@ -169,8 +170,6 @@
     "raceconditions/raceconditions.md",
     "raceconditions/anti_flag_reader.c.md",
     "raceconditions/cat2.c",
-    "raceconditions/bankingsystem.c",
-    "raceconditions/anti_flag_reader.c",
     "raceconditions/bankingsystem.c.md",
     "raceconditions/cat2.c.md",
     "solar/solar.md",

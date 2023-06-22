@@ -259,3 +259,244 @@ find / -type f -name "layer1.txt" 2>/dev/null
 
 ![[Pasted image 20230621082919.png]]
 
+```
+ssh sarah@10.10.83.184
+```
+
+```
+Username: sarah
+Password: rainbowtree1230x
+```
+
+```
+find / -type f -name "personal.txt.gpg" 2>/dev/null
+/home/sarah/oldLogs/units/personal.txt.gpg
+```
+
+```
+find / -type f -name "data.txt" 2>/dev/null
+/home/sarah/logs/zmn/old stuff/-mvLp/data.txt
+```
+
+```
+sarah@james:~$ file "/home/sarah/oldLogs/units/personal.txt.gpg"
+/home/sarah/oldLogs/units/personal.txt.gpg: GPG symmetrically encrypted data (AES256 cipher)
+sarah@james:~$ file "/home/sarah/logs/zmn/old stuff/-mvLp/data.txt"
+/home/sarah/logs/zmn/old stuff/-mvLp/data.txt: ASCII text
+sarah@james:~$ 
+```
+
+```
+scp sarah@10.10.83.184:/"/home/sarah/oldLogs/units/personal.txt.gpg" .
+```
+
+```
+scp sarah@10.10.83.184:/"/home/sarah/logs/zmn/old stuff/-mvLp/data.txt" .
+```
+
+![[Pasted image 20230622134421.png]]
+
+```
+gpg2john personal.txt.gpg > personal_txt_hash
+```
+
+```
+john --wordlist=data_tac.txt --format=gpg personal_txt_hash
+```
+
+```
+┌──(kali㉿kali)-[~/thm/linuxstrengthtraining]
+└─$ john --wordlist=data_tac.txt --format=gpg personal_txt_hash
+Using default input encoding: UTF-8
+Loaded 1 password hash (gpg, OpenPGP / GnuPG Secret Key [32/64])
+Cost 1 (s2k-count) is 65011712 for all loaded hashes
+Cost 2 (hash algorithm [1:MD5 2:SHA1 3:RIPEMD160 8:SHA256 9:SHA384 10:SHA512 11:SHA224]) is 2 for all loaded hashes
+Cost 3 (cipher algorithm [1:IDEA 2:3DES 3:CAST5 4:Blowfish 7:AES128 8:AES192 9:AES256 10:Twofish 11:Camellia128 12:Camellia192 13:Camellia256]) is 9 for all loaded hashes
+Will run 4 OpenMP threads
+Press 'q' or Ctrl-C to abort, almost any other key for status
+valamanezivonia  (?)     
+1g 0:00:01:01 DONE (2023-06-22 13:58) 0.01621g/s 19.52p/s 19.52c/s 19.52C/s vigliacca..vigilino
+Use the "--show" option to display all of the cracked passwords reliably
+Session completed. 
+                                                                                                                                                                                                                                            
+┌──(kali㉿kali)-[~/thm/linuxstrengthtraining]
+└─$ 
+```
+
+![[Pasted image 20230622140039.png]]
+
+```
+gpg personal.txt.gpg
+```
+
+```
+valamanezivonia
+```
+
+![[Pasted image 20230622140656.png]]
+
+![[Pasted image 20230622141411.png]]
+
+```
+find / -type f -name "employees.sql" 2>/dev/null
+```
+```
+sarah@james:~$ find / -type f -name "employees.sql" 2>/dev/null
+/home/sarah/serverLx/employees.sql
+```
+
+```
+scp sarah@10.10.83.184:/"/home/sarah/serverLx/employees.sql" .
+```
+
+```
+rainbowtree1230x
+```
+
+![[Pasted image 20230622141222.png]]
+
+![[Pasted image 20230622142012.png]]
+
+![[Pasted image 20230622141836.png]]
+
+![[Pasted image 20230622142237.png]]
+
+```
+cd /home/sarah/serverLx/
+```
+
+```
+mysql -u root -p
+```
+
+`no password (just enter)`
+
+```
+source employees.sql
+```
+
+```
+DESCRIBE employees;
+```
+
+```
+select * from employees;
+```
+
+![[Pasted image 20230622143318.png]]
+
+
+```
+select * from employees where first_name="Lobel";
+```
+
+```
+Flag{13490AB8}
+```
+
+![[Pasted image 20230622143718.png]]
+
+![[Pasted image 20230622143953.png]]
+
+```
+(2020-08-13) Sarah: Hey Lucy, what happened to the database server? It is completely down now!
+
+(2020-08-13) Lucy: Yes, I believe we have had a problem. I will need to investigate but for now there will be downtime for who knows how long.
+
+(2020-08-13) Sarah: That is a shame, I needed to refer to a customer’s record due to them being unhappy with our service yesterday. 
+
+(2020-08-13) Lucy: if you ask Sameer, he may be able to help you find the back-up database copy we made a few hours ago? 
+
+(2020-08-13) Sarah: Of course, he is one of the sql developers around here in charge of the database creation, I will ask him in a few minutes. Thank you.
+
+(2020-08-13) Lucy: No problem. By the way, our new security engineer may have accidently stored the SSH password of one of our employees. I have no idea how to change it and he will not be back till tomorrow.
+
+(2020-08-13) Sarah: That is a shame. I am sure we will all be fine till he returns. Do you know which employee it is? 
+
+(2020-08-13) Lucy: I think it may have affected James but I not entirely sure.
+
+(2020-08-13) Sarah: That is terrible, but I am sure nothing will come of it, he will be back tomorrow.
+
+(2020-08-13) Lucy: True. It is just a concern of mine because James is the only one with root access. But as you said, we should be ok. Talk to you later. Bye.
+
+```
+
+```
+grep -iRl 'ssh'
+```
+
+![[Pasted image 20230622144712.png]]
+
+```
+(2020-08-13) Sarah: Michael, I have been having trouble accessing the sql database back-up copy made today. Sameer gave me the password, but it just will not work?
+
+(2020-08-13) Michael: Ah, yes. I remember, the security engineer was testing out a new automated software for creating sql database backups. He must have configured it to encrypt the backups with a different password.
+
+(2020-08-13) Sarah: So how can I get a hold of it?
+
+(2020-08-13) Michael: Good question. From what I remember the test program utilised a configuration file around 50mb. It is located inside the home/shared/sql/conf directory. This configuration file contained the directory location of a wordlist it used to randomly select a password from for encrypting the sql back-up copies with. 
+
+(2020-08-13) Sarah: I do not really understand the last part?
+
+(2020-08-13) Michael: once you find the configuration file and consequently the wordlist directory, visit it. One of those wordlists must contain the password it used for the testing. All I remember is that the password began with ebq. You will need Sameer’s account. His SSH password is: thegreatestpasswordever000. 
+
+(2020-08-13) Sarah: Thank you, I will try to find it.
+```
+
+![[Pasted image 20230622145354.png]]
+
+```
+grep -iRl 'wordlist'
+```
+
+![[Pasted image 20230622150257.png]]
+
+```
+find -type f -size 50M
+```
+
+![[Pasted image 20230622151350.png]]
+
+```
+less JKpN
+```
+
+![[Pasted image 20230622151629.png]]
+
+```
+echo 'aG9tZS9zYW1lZXIvSGlzdG9yeSBMQi9sYWJtaW5kL2xhdGVzdEJ1aWxkL2NvbmZpZ0JEQgo=' |base64 -d
+```
+
+```
+cd "home/sameer/History LB/labmind/latestBuild/configBDB"
+```
+
+![[Pasted image 20230622152207.png]]
+
+```
+grep -iRl 'ebq'
+```
+
+![[Pasted image 20230622152802.png]]
+
+![[Pasted image 20230622152945.png]]
+
+```
+ebqiojsdfioj
+ebqiojsiodj
+ebqiojdifoj
+ebqiopsjdfopj
+ebqnice
+ebqops
+ebqiuiud
+ebqjoisjdfij
+ebqkjjdd
+ebqijsji
+ebqopkopk
+ebqattle
+```
+
+
+
+
+

@@ -212,3 +212,50 @@ john --format=raw-md4 --wordlist=/usr/share/wordlists/rockyou.txt ent.txt
 
 ![[Pasted image 20230620202633.png]]
 
+```
+gpg --cipher-algo AES-128 --symmetric history_logs.txt
+```
+
+```
+gpg history_logs.txt.gpg
+```
+
+```
+Username: sarah
+Password: rainbowtree1230x
+```
+
+```
+ssh sarah@10.10.230.147
+```
+
+```
+find / -type f -name "layer4.txt" 2>/dev/null
+```
+
+![[Pasted image 20230621081857.png]]
+
+![[Pasted image 20230621080055.png]]
+
+```
+find / -type f -name "layer3.txt" 2>/dev/null
+```
+
+![[Pasted image 20230621082449.png]]
+
+```
+cat decrypted_layer2.txt 
+MS4gRmluZCBhIGZpbGUgY2FsbGVkIGxheWVyMS50eHQsIGl0cyBwYXNzd29yZCBpcyBoYWNrZWQu
+```
+
+```
+echo "MS4gRmluZCBhIGZpbGUgY2FsbGVkIGxheWVyMS50eHQsIGl0cyBwYXNzd29yZCBpcyBoYWNrZWQu" |base64 -d
+1. Find a file called layer1.txt, its password is hacked.
+```
+
+```
+find / -type f -name "layer1.txt" 2>/dev/null
+```
+
+![[Pasted image 20230621082919.png]]
+

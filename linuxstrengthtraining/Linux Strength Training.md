@@ -496,7 +496,62 @@ ebqopkopk
 ebqattle
 ```
 
+```
+ssh sameer@10.10.153.142
+```
 
+```
+thegreatestpasswordever000
+```
 
+```
+scp sameer@10.10.153.142:/"/home/shared/sql/2020-08-13.zip.gpg" .
+```
+
+![[Pasted image 20230623150535.png]]
+
+![[Pasted image 20230623151053.png]]
+
+```
+gpg 2020-08-13.zip.gpg
+```
+
+```
+ebqattle
+```
+
+![[Pasted image 20230623152608.png]]
+
+![[Pasted image 20230623152730.png]]
+
+```
+grep -iRl 'James'
+```
+
+![[Pasted image 20230623153019.png]]
+
+```
+ssh james@10.10.153.142
+```
+
+```
+vuimaxcullings
+```
+
+```
+find / -type f -name root.txt 2>/dev/null
+```
+
+![[Pasted image 20230623153700.png]]
+
+```
+Flag{6$8$hyJSJ3KDJ3881}
+```
+
+![[Pasted image 20230623153751.png]]
+
+*Walkthrough reference from [Intermediate Linux Course | TryHackMe Linux Strength Training](https://youtu.be/LFqUKD2fELs)*
+
+https://www.youtube.com/@MotasemHamdan
 
 

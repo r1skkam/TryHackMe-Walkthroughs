@@ -34,5 +34,25 @@ john --format=raw-sha384 --wordlist=/usr/share/wordlists/rockyou.txt ciphertext-
 john --format=raw-sha384 ciphertext-sha384.txt
 ```
 
+```
+nc 10.10.199.238 1337
+```
 
+```
+admin&password=sUp3rPaSs1
+```
+
+![[Pasted image 20230624113121.png]]
+
+```
+nc 10.10.199.238 1337
+Welcome! Please login as the admin!
+username: admin
+admin's password: password
+Leaked ciphertext: d66e00848bfbcec9bc54a238d405093b2409b999c283f9efe20a0a84b0fec4fbf9d49c3d3a1637f8d93ac03979ae7526
+enter ciphertext: password
+Non-hexadecimal digit found
+```
+
+![[Pasted image 20230624114333.png]]
 

@@ -11,11 +11,9 @@
             "id": "243c21e16ce426cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "flip/Flip.md",
-                "mode": "source",
-                "source": false
+                "file": "flip/Pasted/Pasted image 20230624111230.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flip/Flip.md",
+                "file": "flip/Pasted/Pasted image 20230624111230.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flip/Flip.md",
+                "file": "flip/Pasted/Pasted image 20230624111230.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flip/Flip.md"
+                "file": "flip/Pasted/Pasted image 20230624111230.png"
               }
             }
           }
@@ -146,11 +144,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "243c21e16ce426cb",
+  "active": "952a494e6ab58534",
   "lastOpenFiles": [
-    "Pasted image 20230624111230.png",
-    "flip/Pasted/Pasted image 20230624105144.png",
     "flip/Flip.md",
+    "flip/Pasted/Pasted image 20230624114333.png",
+    "flip/Pasted/Pasted image 20230624113121.png",
+    "flip/Pasted/Pasted image 20230624111230.png",
+    "flip/Pasted/Pasted image 20230624105144.png",
     "flip/app.py",
     "linuxstrengthtraining/Linux Strength Training.md",
     "flip/Pasted/Pasted image 20230624104934.png",
@@ -161,9 +161,6 @@
     "linuxstrengthtraining/Pasted/Pasted image 20230623153700.png",
     "linuxstrengthtraining/Pasted/Pasted image 20230623153550.png",
     "linuxstrengthtraining/Pasted/Pasted image 20230623153019.png",
-    "linuxstrengthtraining/Pasted/Pasted image 20230623152730.png",
-    "linuxstrengthtraining/Pasted/Pasted image 20230623152608.png",
-    "linuxstrengthtraining/Pasted/Pasted image 20230623151053.png",
     "linuxstrengthtraining/Pasted",
     "threatintelligenceforsoc/Threat Intelligence for SOC.md",
     "linuxstrengthtraining",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linuxstrengthtraining/Linux Strength Training.md",
+                "file": "flip/Flip.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linuxstrengthtraining/Linux Strength Training.md",
+                "file": "flip/Flip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linuxstrengthtraining/Linux Strength Training.md",
+                "file": "flip/Flip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linuxstrengthtraining/Linux Strength Training.md"
+                "file": "flip/Flip.md"
               }
             }
           }
@@ -148,17 +148,22 @@
   },
   "active": "243c21e16ce426cb",
   "lastOpenFiles": [
-    "linuxstrengthtraining/Pasted/Pasted image 20230623153751.png",
+    "Pasted image 20230624111230.png",
+    "flip/Pasted/Pasted image 20230624105144.png",
+    "flip/Flip.md",
+    "flip/app.py",
     "linuxstrengthtraining/Linux Strength Training.md",
+    "flip/Pasted/Pasted image 20230624104934.png",
+    "flip/Pasted",
+    "flip/Pasted/Pasted image 20230624104814.png",
+    "flip",
+    "linuxstrengthtraining/Pasted/Pasted image 20230623153751.png",
     "linuxstrengthtraining/Pasted/Pasted image 20230623153700.png",
     "linuxstrengthtraining/Pasted/Pasted image 20230623153550.png",
     "linuxstrengthtraining/Pasted/Pasted image 20230623153019.png",
     "linuxstrengthtraining/Pasted/Pasted image 20230623152730.png",
     "linuxstrengthtraining/Pasted/Pasted image 20230623152608.png",
     "linuxstrengthtraining/Pasted/Pasted image 20230623151053.png",
-    "linuxstrengthtraining/Pasted/Pasted image 20230623150535.png",
-    "linuxstrengthtraining/Pasted/Pasted image 20230622151350.png",
-    "linuxstrengthtraining/Pasted/Pasted image 20230622152945.png",
     "linuxstrengthtraining/Pasted",
     "threatintelligenceforsoc/Threat Intelligence for SOC.md",
     "linuxstrengthtraining",
@@ -167,11 +172,8 @@
     "threatintelligenceforsoc/uncoder-output-content.txt",
     "threatintelligenceforsoc/sinkhole.yaml",
     "threatintelligenceforsoc/config.yaml",
-    "threatintelligenceforsoc/Pasted",
-    "threatintelligenceforsoc",
     "raceconditions/raceconditions.md",
     "raceconditions/anti_flag_reader.c.md",
-    "raceconditions/cat2.c",
     "raceconditions/bankingsystem.c.md",
     "raceconditions/cat2.c.md",
     "solar/solar.md",
@@ -191,7 +193,6 @@
     "valleype/ffuf.md",
     "valleype/dev1243224123123.html.md",
     "valleype/feroxbuster.md",
-    "README.md",
-    "valleype/valleype.html.md"
+    "README.md"
   ]
 }

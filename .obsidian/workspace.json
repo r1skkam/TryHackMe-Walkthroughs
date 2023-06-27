@@ -11,9 +11,11 @@
             "id": "243c21e16ce426cb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "flip/Pasted/Pasted image 20230624111230.png"
+                "file": "sqlilab/sqlilab.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flip/Pasted/Pasted image 20230624111230.png",
+                "file": "sqlilab/sqlilab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flip/Pasted/Pasted image 20230624111230.png",
+                "file": "sqlilab/sqlilab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flip/Pasted/Pasted image 20230624111230.png"
+                "file": "sqlilab/sqlilab.md"
               }
             }
           }
@@ -146,10 +148,15 @@
   },
   "active": "952a494e6ab58534",
   "lastOpenFiles": [
+    "sqlilab/challenge4",
+    "sqlilab/challenge3",
+    "Pasted image 20230627224134.png",
     "flip/Flip.md",
+    "sqlilab/sqlilab.md",
+    "sqlilab",
+    "flip/Pasted/Pasted image 20230624111230.png",
     "flip/Pasted/Pasted image 20230624114333.png",
     "flip/Pasted/Pasted image 20230624113121.png",
-    "flip/Pasted/Pasted image 20230624111230.png",
     "flip/Pasted/Pasted image 20230624105144.png",
     "flip/app.py",
     "linuxstrengthtraining/Linux Strength Training.md",
@@ -160,15 +167,12 @@
     "linuxstrengthtraining/Pasted/Pasted image 20230623153751.png",
     "linuxstrengthtraining/Pasted/Pasted image 20230623153700.png",
     "linuxstrengthtraining/Pasted/Pasted image 20230623153550.png",
-    "linuxstrengthtraining/Pasted/Pasted image 20230623153019.png",
     "linuxstrengthtraining/Pasted",
     "threatintelligenceforsoc/Threat Intelligence for SOC.md",
     "linuxstrengthtraining",
     "threatintelligenceforsoc/output.txt",
     "threatintelligenceforsoc/New Text Document.txt",
     "threatintelligenceforsoc/uncoder-output-content.txt",
-    "threatintelligenceforsoc/sinkhole.yaml",
-    "threatintelligenceforsoc/config.yaml",
     "raceconditions/raceconditions.md",
     "raceconditions/anti_flag_reader.c.md",
     "raceconditions/bankingsystem.c.md",
@@ -189,7 +193,6 @@
     "valleype/nmap.md",
     "valleype/ffuf.md",
     "valleype/dev1243224123123.html.md",
-    "valleype/feroxbuster.md",
-    "README.md"
+    "valleype/feroxbuster.md"
   ]
 }

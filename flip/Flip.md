@@ -56,3 +56,45 @@ Non-hexadecimal digit found
 
 ![[Pasted image 20230624114333.png]]
 
+https://youtu.be/tA-M2_tfjfQ
+
+**Try Hack Me - Flip**
+
+https://www.youtube.com/@deejaymustang
+
+```
+'access_username=' + username +'&password=' + password
+```
+
+```
+access_username=admin&password=sUp3rPaSs1
+```
+
+16 blocks
+
+```
+access_username=
+admin&password=s
+Up3rPaSs1$$$$$$$
+```
+
+```
+nc 10.10.29.44 1337
+```
+
+```
+b70247b6dce2548b2272df91945c1dcfe674c3715bdf293878d4969515b7faef53c6e74c09531e0addf6aef7950dbc10
+```
+
+```
+access_username=
+admin&password=s
+Up3rPaSs1$$$$$$$
+
+b70247b6dce2548b2272df91945c1dcf
+e674c3715bdf293878d4969515b7faef
+53c6e74c09531e0addf6aef7950dbc10
+
+THM{FliP_DaT_B1t_oR_G3t_Fl1pP3d}
+```
+

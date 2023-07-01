@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sqlilab/sqlilab.md",
+                "file": "owaspbrokenaccesscontrol/OWASP Broken Access Control.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sqlilab/sqlilab.md",
+                "file": "owaspbrokenaccesscontrol/OWASP Broken Access Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sqlilab/sqlilab.md",
+                "file": "owaspbrokenaccesscontrol/OWASP Broken Access Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sqlilab/sqlilab.md"
+                "file": "owaspbrokenaccesscontrol/OWASP Broken Access Control.md"
               }
             }
           }
@@ -146,13 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "952a494e6ab58534",
+  "active": "243c21e16ce426cb",
   "lastOpenFiles": [
+    "sqlilab/Pasted/Pasted image 20230627224134.png",
+    "Pasted image 20230701184738.png",
+    "sqlilab/Pasted",
+    "owaspbrokenaccesscontrol/OWASP Broken Access Control.md",
+    "sqlilab/sqlilab.md",
+    "owaspbrokenaccesscontrol/Pasted",
+    "owaspbrokenaccesscontrol",
+    "r1skkam.ovpn",
     "sqlilab/challenge4",
     "sqlilab/challenge3",
-    "Pasted image 20230627224134.png",
     "flip/Flip.md",
-    "sqlilab/sqlilab.md",
     "sqlilab",
     "flip/Pasted/Pasted image 20230624111230.png",
     "flip/Pasted/Pasted image 20230624114333.png",
@@ -166,13 +172,7 @@
     "flip",
     "linuxstrengthtraining/Pasted/Pasted image 20230623153751.png",
     "linuxstrengthtraining/Pasted/Pasted image 20230623153700.png",
-    "linuxstrengthtraining/Pasted/Pasted image 20230623153550.png",
-    "linuxstrengthtraining/Pasted",
     "threatintelligenceforsoc/Threat Intelligence for SOC.md",
-    "linuxstrengthtraining",
-    "threatintelligenceforsoc/output.txt",
-    "threatintelligenceforsoc/New Text Document.txt",
-    "threatintelligenceforsoc/uncoder-output-content.txt",
     "raceconditions/raceconditions.md",
     "raceconditions/anti_flag_reader.c.md",
     "raceconditions/bankingsystem.c.md",
@@ -192,7 +192,6 @@
     "valleype/dev.js.md",
     "valleype/nmap.md",
     "valleype/ffuf.md",
-    "valleype/dev1243224123123.html.md",
-    "valleype/feroxbuster.md"
+    "valleype/dev1243224123123.html.md"
   ]
 }

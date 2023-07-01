@@ -11,9 +11,11 @@
             "id": "243c21e16ce426cb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "owaspbrokenaccesscontrol/Pasted/Pasted image 20230701184738.png"
+                "file": "owaspbrokenaccesscontrol/OWASP Broken Access Control.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "owaspbrokenaccesscontrol/Pasted/Pasted image 20230701184738.png",
+                "file": "owaspbrokenaccesscontrol/OWASP Broken Access Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "owaspbrokenaccesscontrol/Pasted/Pasted image 20230701184738.png",
+                "file": "owaspbrokenaccesscontrol/OWASP Broken Access Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "owaspbrokenaccesscontrol/Pasted/Pasted image 20230701184738.png"
+                "file": "owaspbrokenaccesscontrol/OWASP Broken Access Control.md"
               }
             }
           }
@@ -144,21 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "952a494e6ab58534",
+  "active": "243c21e16ce426cb",
   "lastOpenFiles": [
+    "owaspbrokenaccesscontrol/Pasted/Pasted image 20230701210147.png",
+    "owaspbrokenaccesscontrol/Pasted/Pasted image 20230701201703.png",
     "owaspbrokenaccesscontrol/OWASP Broken Access Control.md",
+    "owaspbrokenaccesscontrol/Pasted/Pasted image 20230701205939.png",
+    "owaspbrokenaccesscontrol/Pasted/Pasted image 20230701204128.png",
+    "owaspbrokenaccesscontrol/Pasted/Pasted image 20230701203402.png",
+    "owaspbrokenaccesscontrol/Pasted/Pasted image 20230701203049.png",
+    "owaspbrokenaccesscontrol/Pasted/Pasted image 20230701202853.png",
+    "owaspbrokenaccesscontrol/Pasted/Pasted image 20230701202717.png",
+    "owaspbrokenaccesscontrol/admin.php",
+    "owaspbrokenaccesscontrol/Pasted/Pasted image 20230701202412.png",
+    "owaspbrokenaccesscontrol/Pasted/Pasted image 20230701184738.png",
     "owaspbrokenaccesscontrol/Pasted/Pasted image 20230701193557.png",
     "owaspbrokenaccesscontrol/dashboard.php",
-    "owaspbrokenaccesscontrol/Pasted/Pasted image 20230701193216.png",
-    "owaspbrokenaccesscontrol/Pasted/Pasted image 20230701193120.png",
-    "owaspbrokenaccesscontrol/Pasted/Pasted image 20230701193047.png",
-    "owaspbrokenaccesscontrol/Pasted/Pasted image 20230701192945.png",
-    "owaspbrokenaccesscontrol/Pasted/Pasted image 20230701192910.png",
-    "owaspbrokenaccesscontrol/Pasted/Pasted image 20230701192726.png",
     "owaspbrokenaccesscontrol/owaspbrokenaccesscontrol.html",
-    "owaspbrokenaccesscontrol/Pasted/Pasted image 20230701192241.png",
-    "owaspbrokenaccesscontrol/Pasted/Pasted image 20230701185304.png",
-    "sqlilab/Pasted/Pasted image 20230627224134.png",
     "sqlilab/Pasted",
     "sqlilab/sqlilab.md",
     "owaspbrokenaccesscontrol/Pasted",
@@ -168,7 +172,6 @@
     "sqlilab/challenge3",
     "flip/Flip.md",
     "sqlilab",
-    "flip/app.py",
     "linuxstrengthtraining/Linux Strength Training.md",
     "threatintelligenceforsoc/Threat Intelligence for SOC.md",
     "raceconditions/raceconditions.md",

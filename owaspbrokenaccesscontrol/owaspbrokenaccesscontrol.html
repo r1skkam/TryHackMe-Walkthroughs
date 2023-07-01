@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Welcome to VulnerableApp</title>
+</head>
+<body>
+    <div class="container">
+        <div class="content">
+            <h1>Welcome To VulnerableApp</h1>
+            <p>Creating an account is absolutely free!</p>
+            <h2>Create an account</h3> 
+            <div class="column-50">
+                            </div>
+            <form action="/index.php" method="post">
+                <div class="row">
+                    <div class="column-15">
+                        <label for="name1">First Name</label>
+                    </div>
+                    <div class="column-45">
+                        <input id="name1" type="text" name="fname" placeholder="Your first name">
+                    </div>
+                    <div class="column-40">
+                        <a class="err"></a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="column-15">
+                        <label for="name2">Last Name</label>
+                    </div>
+                    <div class="column-45">
+                        <input id="name2" type="text" name="lname" placeholder="Your last name">
+                    </div>
+                    <div class="column-40">
+                        <a class="err"></a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="column-15">
+                        <label for="email">Email</label>
+                    </div>
+                    <div class="column-45">
+                        <input id="email" type="email" name="email" placeholder="Enter a valid email">
+                    </div>
+                    <div class="column-40">
+                        <a class="err"></a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="column-15">
+                        <label for="pwd">Password</label>
+                    </div>
+                    <div class="column-45">
+                        <input id="pwd" type="password" name="pass" placeholder="Password">
+                    </div>
+                    <div class="column-40">
+                        <a class="err"></a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="column-15">
+                        <label for="pwd2">Re-enter Password</label>
+                    </div>
+                    <div class="column-45">
+                        <input id="pwd2" type="password" name="pass2" placeholder="Password confirmation">
+                    </div>
+                    <div class="column-40">
+                        <a class="err"></a>
+                    </div>
+                </div>
+                <div class="row">
+                    <input id="sbutton" name="submit" type="submit" value="Create account">
+                </div>
+            </form>
+            <h2 id="qsin">Already have an account?  <a id="link" href="login.php"><u>Login</u></a></h2>            
+        </div> 
+    </div>  
+</body>
+</html>

@@ -31,11 +31,9 @@
             "id": "2e5af4a7ed0bb76d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "catpictures2/Cat Pictures 2.md",
-                "mode": "source",
-                "source": false
+                "file": "catpictures2/Pasted/Pasted image 20230703223211.png"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "catpictures2/Cat Pictures 2.md",
+                "file": "catpictures2/Pasted/Pasted image 20230703223211.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "catpictures2/Cat Pictures 2.md",
+                "file": "catpictures2/Pasted/Pasted image 20230703223211.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "catpictures2/Cat Pictures 2.md"
+                "file": "catpictures2/Pasted/Pasted image 20230703223211.png"
               }
             }
           }
@@ -167,21 +165,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e5af4a7ed0bb76d",
+  "active": "952a494e6ab58534",
   "lastOpenFiles": [
-    "Pasted image 20230703212746.png",
-    "catpictures2/Pasted/Pasted image 20230703212528.png",
     "catpictures2/Cat Pictures 2.md",
-    "catpictures2/Pasted/Pasted image 20230703212421.png",
-    "catpictures2/Pasted/Pasted image 20230703212318.png",
-    "catpictures2/Pasted/Pasted image 20230703212141.png",
-    "catpictures2/Pasted/Pasted image 20230703211957.png",
-    "catpictures2/Pasted/Pasted image 20230703211310.png",
-    "catpictures2/Pasted/Pasted image 20230703210940.png",
-    "catpictures2/Pasted/Pasted image 20230703210224.png",
-    "catpictures2/Pasted/Pasted image 20230703205904.png",
+    "catpictures2/Pasted/Pasted image 20230703224049.png",
+    "catpictures2/Pasted/Pasted image 20230703223955.png",
+    "catpictures2/Pasted/Pasted image 20230703223842.png",
+    "catpictures2/Pasted/Pasted image 20230703223211.png",
+    "catpictures2/Pasted/Pasted image 20230703222823.png",
+    "catpictures2/Pasted/Pasted image 20230703222742.png",
+    "catpictures2/Pasted/Pasted image 20230703222534.png",
+    "catpictures2/Pasted/Pasted image 20230703222459.png",
+    "catpictures2/Pasted/Pasted image 20230703222439.png",
+    "catpictures2/Pasted/Pasted image 20230703220703.png",
+    "catpictures2/playbook.yaml",
     "catpictures2/Lychee.html",
-    "catpictures2/Pasted/Pasted image 20230703205530.png",
     "catpictures2/Pasted",
     "owaspbrokenaccesscontrol/OWASP Broken Access Control.md",
     "catpictures2",
@@ -192,7 +190,6 @@
     "sqlilab/sqlilab.md",
     "owaspbrokenaccesscontrol/Pasted",
     "owaspbrokenaccesscontrol",
-    "r1skkam.ovpn",
     "flip/Flip.md",
     "linuxstrengthtraining/Linux Strength Training.md",
     "threatintelligenceforsoc/Threat Intelligence for SOC.md",

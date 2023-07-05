@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Login</title>
+    <!-- <script src="/static/js/socket.io.js"></script> -->
+    <link rel="stylesheet" type="text/css" href="/static/main.css">
+    <link rel="stylesheet" type="text/css" href="/static/style.css">
+
+    <!-- reveal -->
+    <link rel="stylesheet" type="text/css" href="/static/dist/reset.css">
+    <link rel="stylesheet" type="text/css" href="/static/dist/reveal.css">
+    <link rel="stylesheet" type="text/css" href="/static/dist/theme/white.css" id="theme">
+
+    <link rel="stylesheet" type="text/css" href="/static/plugin/highlight/default.css"
+        id="highlight-theme">
+</head>
+
+<body class="d-flex flex-column min-vh-100">
+    <nav class="navbar navbar-expand-md navbar-light bg-light">
+        <div class="navbar-collapse collapse w-100 order-1 order-md-0 dual-collapse2">
+            <ul class="navbar-nav mr-auto">
+                
+            </ul>
+        </div>
+        <div class="mx-auto order-0">
+            <h3 class="navbar-brand mx-auto"><a class="deco-none" href="/sesqli5/home">SQL Injection 5: UPDATE Statement</a></h3>
+        </div>
+        <div class="navbar-collapse collapse w-100 order-3 dual-collapse2">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">[Main Menu]</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="wrapper flex-grow-1 overflow-auto">
+        
+        
+        
+        
+<div class="login-form">
+    <form action="/sesqli5/login" onsubmit="return validateform()" name="inputForm" method="POST">
+        <h2 class="text-center">Log in</h2>
+        <div class="form-group">
+            <input type="text" class="form-control" placeholder="ProfileID" required="required" name="profileID">
+        </div>
+        <div class="form-group">
+            <input type="password" class="form-control" placeholder="Password" required="required" name="password">
+        </div>
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary btn-block">Log in</button>
+        </div>
+    </form>
+</div>
+</div>
+<script>
+    function validateform() {
+        var profileID = document.inputForm.profileID.value;
+        var password = document.inputForm.password.value;
+
+        if (/^[a-zA-Z0-9]*$/.test(profileID) == false || /^[a-zA-Z0-9]*$/.test(password) == false) {
+            alert("The input fields cannot contain special characters");
+            return false;
+        }
+        if (profileID == null || password == null) {
+            alert("The input fields cannot be empty.");
+            return false;
+        }
+    }  
+</script>
+
+<footer class="footer bg-light overflow-auto">
+    <div class="container main">
+        
+            
+                
+                    
+                
+            
+        
+        
+            
+        
+    </div>
+</footer>
+
+<script src="/static/dist/reveal.js"></script>
+<script src="/static/plugin/highlight/highlight.js"></script>
+<script src="/static/js/highlight.min.js"></script>
+<script>
+    Reveal.initialize({
+        hash: true,
+        embedded: true,
+        width: "99%",
+        height: "100%",
+        margin: 0,
+        minScale: 1,
+        maxScale: 1,
+        slideNumber: "c/t",
+
+        plugins: [RevealHighlight]
+    });
+    
+    function getCookie(name) {
+        // https://stackoverflow.com/questions/10730362/get-cookie-by-name
+        const value = `; ${document.cookie}`;
+        const parts = value.split(`; ${name}=`);
+        if (parts.length === 2) return parts.pop().split(';').shift();
+    }
+
+    Reveal.on("slidechanged", event => {
+        document.cookie="sesqli5_slide=" + event.indexh + ";path=/";
+    });
+    const cookieValue = getCookie("sesqli5_slide");
+    if (cookieValue) {
+        Reveal.slide(cookieValue);
+    }
+</script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+</body>
+
+</html>

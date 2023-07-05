@@ -5,7 +5,7 @@
 **Understand how SQL injection attacks work and how to exploit this vulnerability.**
 
 ```
-http://10.10.184.158:5000/
+http://10.10.218.93:5000/
 ```
 
 ![[Pasted image 20230704220049.png]]
@@ -90,8 +90,16 @@ SELECT uid, name, profileID, salary, passportNr, email, nickName, password FROM 
 THM{727334fd0f0ea1b836a8d443f09dc8eb}|
 ```
 
+*To identify what database is in use...*
 
+### For MySQL and MSSQL
+',nickName=@@version,email='
 
+### For Oracle
+',nickName=(SELECT banner FROM v$version),email='
+
+### For SQLite
+',nickName=sqlite_version(),email='
 
 https://www.onlinehashcrack.com/wh86lv20ap
 

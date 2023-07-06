@@ -11,11 +11,9 @@
             "id": "243c21e16ce426cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "sqlilab/SQL Injection Lab.md",
-                "mode": "source",
-                "source": false
+                "file": "sqlilab/Pasted/Pasted image 20230706055157.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sqlilab/SQL Injection Lab.md",
+                "file": "sqlilab/Pasted/Pasted image 20230706055157.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sqlilab/SQL Injection Lab.md",
+                "file": "sqlilab/Pasted/Pasted image 20230706055157.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sqlilab/SQL Injection Lab.md"
+                "file": "sqlilab/Pasted/Pasted image 20230706055157.png"
               }
             }
           }
@@ -146,20 +144,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "243c21e16ce426cb",
+  "active": "952a494e6ab58534",
   "lastOpenFiles": [
+    "sqlilab/SQL Injection Lab.md",
+    "sqlilab/Pasted/Pasted image 20230706063419.png",
+    "sqlilab/Pasted/Pasted image 20230706060132.png",
+    "sqlilab/Pasted/Pasted image 20230706060058.png",
+    "sqlilab/Pasted/Pasted image 20230706055157.png",
     "sqlilab/sqli5.html",
     "sqlilab/Pasted/Pasted image 20230705064047.png",
-    "sqlilab/SQL Injection Lab.md",
     "sqlilab/Pasted/Pasted image 20230705070854.png",
     "sqlilab/Pasted/Pasted image 20230705064153.png",
     "sqlilab/Pasted/Pasted image 20230704225550.png",
     "sqlilab/Pasted/Pasted image 20230704225334.png",
     "sqlilab/Pasted/Pasted image 20230704225459.png",
-    "sqlilab/Pasted/Pasted image 20230704220049.png",
-    "sqlilab/Pasted/Pasted image 20230704225059.png",
-    "sqlilab/Pasted/Pasted image 20230704225009.png",
-    "sqlilab/Pasted/Pasted image 20230704224804.png",
     "linuxstrengthtraining/Linux Strength Training.md",
     "sqlilab/sqlilab.html",
     "catpictures2/Cat Pictures 2.md",
@@ -172,7 +170,6 @@
     "owaspbrokenaccesscontrol/dashboard.php",
     "owaspbrokenaccesscontrol/owaspbrokenaccesscontrol.html",
     "sqlilab/Pasted",
-    "owaspbrokenaccesscontrol/Pasted",
     "flip/Flip.md",
     "threatintelligenceforsoc/Threat Intelligence for SOC.md",
     "raceconditions/raceconditions.md",

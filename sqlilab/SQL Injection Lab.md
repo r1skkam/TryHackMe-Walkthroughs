@@ -146,3 +146,44 @@ http://10.10.184.158:5000/downloads/
 
 ![[Pasted image 20230627224134.png]]
 
+**06072023Thu**
+
+```
+http://10.10.144.133:5000/challenge1/
+```
+
+![[Pasted image 20230706214705.png]]
+
+```
+http://10.10.144.133:5000/challenge1/signup
+```
+
+![[Pasted image 20230706214821.png]]
+
+![[Pasted image 20230706214930.png]]
+
+```
+http://10.10.144.133:5000/challenge1/home
+```
+
+![[Pasted image 20230706215118.png]]
+
+![[Pasted image 20230706215937.png]]
+
+spaceadmin
+
+![[Pasted image 20230706220114.png]]
+
+```
+https://youtu.be/TiEQrwKRWjc?t=1686
+```
+
+**TryHackMe #301 SQL Injection Lab**
+https://www.youtube.com/@AdamskiCTF
+
+```
+THM{f35f47dcd9d596f0d3860d14cd4c68ec}
+```
+
+![[Pasted image 20230706221958.png]]
+

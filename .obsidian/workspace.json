@@ -21,9 +21,11 @@
             "id": "f9f77da4e2bf52f1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "sqlilab/Pasted/Pasted image 20230707060305.png"
+                "file": "snappedphishingline/Snapped Phish-ing Line.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sqlilab/Pasted/Pasted image 20230707060305.png",
+                "file": "snappedphishingline/Snapped Phish-ing Line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sqlilab/Pasted/Pasted image 20230707060305.png",
+                "file": "snappedphishingline/Snapped Phish-ing Line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sqlilab/Pasted/Pasted image 20230707060305.png"
+                "file": "snappedphishingline/Snapped Phish-ing Line.md"
               }
             }
           }
@@ -155,8 +157,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "952a494e6ab58534",
+  "active": "f9f77da4e2bf52f1",
   "lastOpenFiles": [
+    "snappedphishingline/Pasted/Pasted image 20230708085010.png",
+    "snappedphishingline/Snapped Phish-ing Line.md",
+    "snappedphishingline/Pasted",
+    "sqlilab/Pasted/Pasted image 20230706220114.png",
+    "snappedphishingline",
     "sqlilab/SQL Injection Lab.md",
     "sqlilab/Pasted/Pasted image 20230707061641.png",
     "sqlilab/Pasted/Pasted image 20230707061501.png",
@@ -165,10 +172,8 @@
     "sqlilab/session-cookie.txt",
     "sqlilab/Pasted/Pasted image 20230707060305.png",
     "sqlilab/Pasted/Pasted image 20230706221958.png",
-    "sqlilab/Pasted/Pasted image 20230706220114.png",
     "sqlilab/Pasted/Pasted image 20230706214705.png",
     "sqlilab/Pasted/Pasted image 20230706215937.png",
-    "sqlilab/Pasted/Pasted image 20230706215118.png",
     "sqlilab/sqli5.html",
     "linuxstrengthtraining/Linux Strength Training.md",
     "sqlilab/sqlilab.html",
@@ -179,8 +184,6 @@
     "owaspbrokenaccesscontrol/OWASP Broken Access Control.md",
     "catpictures2",
     "owaspbrokenaccesscontrol/admin.php",
-    "owaspbrokenaccesscontrol/dashboard.php",
-    "owaspbrokenaccesscontrol/owaspbrokenaccesscontrol.html",
     "flip/Flip.md",
     "threatintelligenceforsoc/Threat Intelligence for SOC.md",
     "raceconditions/raceconditions.md",
@@ -200,7 +203,6 @@
     "valleype/pcap.md",
     "valleype/ftp.md",
     "valleype/dev.js.md",
-    "valleype/nmap.md",
-    "valleype/ffuf.md"
+    "valleype/nmap.md"
   ]
 }

@@ -8,29 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "243c21e16ce426cb",
+            "id": "f9f77da4e2bf52f1",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "sqlilab/Pasted/Pasted image 20230706220114.png"
-              }
-            }
-          },
-          {
-            "id": "f9f77da4e2bf52f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "snappedphishingline/Snapped Phish-ing Line.md",
-                "mode": "source",
-                "source": false
+                "file": "redisl33t/Pasted/Pasted image 20230715092744.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "snappedphishingline/Snapped Phish-ing Line.md",
+                "file": "redisl33t/Pasted/Pasted image 20230715092744.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "snappedphishingline/Snapped Phish-ing Line.md",
+                "file": "redisl33t/Pasted/Pasted image 20230715092744.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snappedphishingline/Snapped Phish-ing Line.md"
+                "file": "redisl33t/Pasted/Pasted image 20230715092744.png"
               }
             }
           }
@@ -157,10 +144,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9f77da4e2bf52f1",
+  "active": "952a494e6ab58534",
   "lastOpenFiles": [
-    "snappedphishingline/Pasted/Pasted image 20230714071318.png",
+    "redisl33t/Red.md",
+    "redisl33t/redisl33t.html",
+    "redisl33t/Pasted/Pasted image 20230715093430.png",
+    "redisl33t/Pasted/Pasted image 20230715093316.png",
+    "redisl33t/Pasted",
+    "redisl33t/Pasted/Pasted image 20230715092802.png",
+    "redisl33t/Pasted/Pasted image 20230715092744.png",
     "snappedphishingline/Snapped Phish-ing Line.md",
+    "redisl33t",
+    "snappedphishingline/Pasted/Pasted image 20230714071318.png",
     "snappedphishingline/Pasted/Pasted image 20230714072518.png",
     "snappedphishingline/Pasted/Pasted image 20230714072231.png",
     "snappedphishingline/Pasted/Pasted image 20230714072050.png",
@@ -169,10 +164,6 @@
     "sqlilab/Pasted/Pasted image 20230706220114.png",
     "snappedphishingline",
     "sqlilab/SQL Injection Lab.md",
-    "sqlilab/Pasted/Pasted image 20230707061641.png",
-    "sqlilab/Pasted/Pasted image 20230707061501.png",
-    "sqlilab/Pasted/Pasted image 20230707061003.png",
-    "sqlilab/Pasted/Pasted image 20230707060742.png",
     "sqlilab/session-cookie.txt",
     "sqlilab/sqli5.html",
     "linuxstrengthtraining/Linux Strength Training.md",
@@ -180,10 +171,7 @@
     "catpictures2/Cat Pictures 2.md",
     "catpictures2/playbook.yaml",
     "catpictures2/Lychee.html",
-    "catpictures2/Pasted",
     "owaspbrokenaccesscontrol/OWASP Broken Access Control.md",
-    "catpictures2",
-    "owaspbrokenaccesscontrol/admin.php",
     "flip/Flip.md",
     "threatintelligenceforsoc/Threat Intelligence for SOC.md",
     "raceconditions/raceconditions.md",
@@ -202,7 +190,6 @@
     "valleype/scp.md",
     "valleype/pcap.md",
     "valleype/ftp.md",
-    "valleype/dev.js.md",
-    "valleype/nmap.md"
+    "valleype/dev.js.md"
   ]
 }

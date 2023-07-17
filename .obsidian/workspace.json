@@ -23,7 +23,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "redisl33t/Pasted/Pasted image 20230716140044.png"
+                "file": "redisl33t/Pasted/Pasted image 20230717153008.png"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "redisl33t/Pasted/Pasted image 20230716140044.png",
+                "file": "redisl33t/Pasted/Pasted image 20230717153008.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "redisl33t/Pasted/Pasted image 20230716140044.png",
+                "file": "redisl33t/Pasted/Pasted image 20230717153008.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "redisl33t/Pasted/Pasted image 20230716140044.png"
+                "file": "redisl33t/Pasted/Pasted image 20230717153008.png"
               }
             }
           }
@@ -157,19 +157,20 @@
   },
   "active": "952a494e6ab58534",
   "lastOpenFiles": [
-    "redisl33t/Pasted/Pasted image 20230716135754.png",
     "redisl33t/Red.md",
-    "redisl33t/Pasted/Pasted image 20230716140044.png",
-    "redisl33t/Pasted/Pasted image 20230716120409.png",
-    "redisl33t/Pasted/Pasted image 20230716135600.png",
-    "redisl33t/Pasted/Pasted image 20230716135507.png",
-    "redisl33t/Pasted/Pasted image 20230716134923.png",
+    "redisl33t/Pasted/Pasted image 20230717155229.png",
+    "redisl33t/Pasted/Pasted image 20230717154514.png",
+    "redisl33t/Pasted/Pasted image 20230717154159.png",
+    "redisl33t/Pasted/Pasted image 20230717154131.png",
+    "redisl33t/Pasted/Pasted image 20230717153154.png",
+    "redisl33t/Pasted/Pasted image 20230717153008.png",
+    "redisl33t/Pasted/Pasted image 20230717145223.png",
+    "redisl33t/Pasted/Pasted image 20230717152326.png",
+    "linuxstrengthtraining/Linux Strength Training.md",
+    "redisl33t/Pasted/Pasted image 20230717152124.png",
+    "redisl33t/Pasted/Pasted image 20230717152000.png",
     "redisl33t/passlist.txt",
-    "redisl33t/Pasted/Pasted image 20230716120818.png",
-    "redisl33t/Pasted/Pasted image 20230716120737.png",
-    "redisl33t/Pasted/Pasted image 20230715092744.png",
     "redisl33t/redisl33t.html",
-    "redisl33t/Pasted/Pasted image 20230715093430.png",
     "redisl33t/Pasted",
     "snappedphishingline/Snapped Phish-ing Line.md",
     "redisl33t",
@@ -178,7 +179,6 @@
     "sqlilab/SQL Injection Lab.md",
     "sqlilab/session-cookie.txt",
     "sqlilab/sqli5.html",
-    "linuxstrengthtraining/Linux Strength Training.md",
     "sqlilab/sqlilab.html",
     "catpictures2/Cat Pictures 2.md",
     "catpictures2/playbook.yaml",

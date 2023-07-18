@@ -8,27 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f9f77da4e2bf52f1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "redisl33t/Pasted/Pasted image 20230716135754.png"
-              }
-            }
-          },
-          {
             "id": "b8a7c935dee03fc3",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "redisl33t/Pasted/Pasted image 20230717153008.png"
+                "file": "cyborgt8/Pasted/Pasted image 20230718075448.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "redisl33t/Pasted/Pasted image 20230717153008.png",
+                "file": "cyborgt8/Pasted/Pasted image 20230718075448.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "redisl33t/Pasted/Pasted image 20230717153008.png",
+                "file": "cyborgt8/Pasted/Pasted image 20230718075448.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "redisl33t/Pasted/Pasted image 20230717153008.png"
+                "file": "cyborgt8/Pasted/Pasted image 20230718075448.png"
               }
             }
           }
@@ -157,18 +146,21 @@
   },
   "active": "952a494e6ab58534",
   "lastOpenFiles": [
-    "redisl33t/Red.md",
-    "redisl33t/Pasted/Pasted image 20230717155229.png",
-    "redisl33t/Pasted/Pasted image 20230717154514.png",
-    "redisl33t/Pasted/Pasted image 20230717154159.png",
-    "redisl33t/Pasted/Pasted image 20230717154131.png",
-    "redisl33t/Pasted/Pasted image 20230717153154.png",
-    "redisl33t/Pasted/Pasted image 20230717153008.png",
-    "redisl33t/Pasted/Pasted image 20230717145223.png",
-    "redisl33t/Pasted/Pasted image 20230717152326.png",
+    "cyborgt8/Cyborg.md",
+    "cyborgt8/Pasted/Pasted image 20230718091426.png",
     "linuxstrengthtraining/Linux Strength Training.md",
-    "redisl33t/Pasted/Pasted image 20230717152124.png",
-    "redisl33t/Pasted/Pasted image 20230717152000.png",
+    "cyborgt8/Pasted/Pasted image 20230718085422.png",
+    "cyborgt8/Pasted/Pasted image 20230718085124.png",
+    "cyborgt8/Pasted/Pasted image 20230718085017.png",
+    "cyborgt8/Pasted/Pasted image 20230718080918.png",
+    "cyborgt8/Pasted/Pasted image 20230718080553.png",
+    "cyborgt8/Pasted/Pasted image 20230718080427.png",
+    "cyborgt8/Pasted/Pasted image 20230718080301.png",
+    "cyborgt8/Pasted/Pasted image 20230718080154.png",
+    "cyborgt8/Pasted/Pasted image 20230718075628.png",
+    "cyborgt8/Pasted",
+    "redisl33t/Red.md",
+    "cyborgt8",
     "redisl33t/passlist.txt",
     "redisl33t/redisl33t.html",
     "redisl33t/Pasted",
@@ -179,9 +171,7 @@
     "sqlilab/SQL Injection Lab.md",
     "sqlilab/session-cookie.txt",
     "sqlilab/sqli5.html",
-    "sqlilab/sqlilab.html",
     "catpictures2/Cat Pictures 2.md",
-    "catpictures2/playbook.yaml",
     "owaspbrokenaccesscontrol/OWASP Broken Access Control.md",
     "flip/Flip.md",
     "threatintelligenceforsoc/Threat Intelligence for SOC.md",
@@ -200,7 +190,6 @@
     "valleype/upx.md",
     "valleype/scp.md",
     "valleype/pcap.md",
-    "valleype/ftp.md",
-    "valleype/dev.js.md"
+    "valleype/ftp.md"
   ]
 }

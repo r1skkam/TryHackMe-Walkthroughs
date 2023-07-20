@@ -11,9 +11,11 @@
             "id": "b8a7c935dee03fc3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "parrotpost/Pasted/Pasted image 20230721061717.png"
+                "file": "parrotpost/ParrotPost - Phishing Analysis.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "parrotpost/Pasted/Pasted image 20230721061717.png",
+                "file": "parrotpost/ParrotPost - Phishing Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "parrotpost/Pasted/Pasted image 20230721061717.png",
+                "file": "parrotpost/ParrotPost - Phishing Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "parrotpost/Pasted/Pasted image 20230721061717.png"
+                "file": "parrotpost/ParrotPost - Phishing Analysis.md"
               }
             }
           }
@@ -144,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "952a494e6ab58534",
+  "active": "b8a7c935dee03fc3",
   "lastOpenFiles": [
-    "Pasted image 20230721061513.png",
     "parrotpost/Pasted/Pasted image 20230721061717.png",
+    "Pasted image 20230721061513.png",
     "parrotpost/Pasted/Pasted image 20230721061604.png",
     "parrotpost/Pasted/Pasted image 20230721061417.png",
     "parrotpost/ParrotPost - Phishing Analysis.md",

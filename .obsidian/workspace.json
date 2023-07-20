@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "cyborgt8/Pasted/Pasted image 20230718075448.png"
+                "file": "parrotpost/Pasted/Pasted image 20230721061717.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cyborgt8/Pasted/Pasted image 20230718075448.png",
+                "file": "parrotpost/Pasted/Pasted image 20230721061717.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cyborgt8/Pasted/Pasted image 20230718075448.png",
+                "file": "parrotpost/Pasted/Pasted image 20230721061717.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cyborgt8/Pasted/Pasted image 20230718075448.png"
+                "file": "parrotpost/Pasted/Pasted image 20230721061717.png"
               }
             }
           }
@@ -146,6 +146,14 @@
   },
   "active": "952a494e6ab58534",
   "lastOpenFiles": [
+    "Pasted image 20230721061513.png",
+    "parrotpost/Pasted/Pasted image 20230721061717.png",
+    "parrotpost/Pasted/Pasted image 20230721061604.png",
+    "parrotpost/Pasted/Pasted image 20230721061417.png",
+    "parrotpost/ParrotPost - Phishing Analysis.md",
+    "cyborgt8/Pasted/Pasted image 20230718075448.png",
+    "parrotpost/Pasted",
+    "parrotpost",
     "cyborgt8/Cyborg.md",
     "cyborgt8/Pasted/Pasted image 20230718091426.png",
     "linuxstrengthtraining/Linux Strength Training.md",
@@ -153,11 +161,6 @@
     "cyborgt8/Pasted/Pasted image 20230718085124.png",
     "cyborgt8/Pasted/Pasted image 20230718085017.png",
     "cyborgt8/Pasted/Pasted image 20230718080918.png",
-    "cyborgt8/Pasted/Pasted image 20230718080553.png",
-    "cyborgt8/Pasted/Pasted image 20230718080427.png",
-    "cyborgt8/Pasted/Pasted image 20230718080301.png",
-    "cyborgt8/Pasted/Pasted image 20230718080154.png",
-    "cyborgt8/Pasted/Pasted image 20230718075628.png",
     "cyborgt8/Pasted",
     "redisl33t/Red.md",
     "cyborgt8",
@@ -169,8 +172,6 @@
     "snappedphishingline/Pasted",
     "snappedphishingline",
     "sqlilab/SQL Injection Lab.md",
-    "sqlilab/session-cookie.txt",
-    "sqlilab/sqli5.html",
     "catpictures2/Cat Pictures 2.md",
     "owaspbrokenaccesscontrol/OWASP Broken Access Control.md",
     "flip/Flip.md",
@@ -189,7 +190,6 @@
     "valleype/user.txt.md",
     "valleype/upx.md",
     "valleype/scp.md",
-    "valleype/pcap.md",
-    "valleype/ftp.md"
+    "valleype/pcap.md"
   ]
 }

@@ -11,11 +11,9 @@
             "id": "b8a7c935dee03fc3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "parrotpost/ParrotPost - Phishing Analysis.md",
-                "mode": "source",
-                "source": false
+                "file": "cyborgt8/Pasted/Pasted image 20230722102307.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "parrotpost/ParrotPost - Phishing Analysis.md",
+                "file": "cyborgt8/Pasted/Pasted image 20230722102307.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "parrotpost/ParrotPost - Phishing Analysis.md",
+                "file": "cyborgt8/Pasted/Pasted image 20230722102307.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "parrotpost/ParrotPost - Phishing Analysis.md"
+                "file": "cyborgt8/Pasted/Pasted image 20230722102307.png"
               }
             }
           }
@@ -146,23 +144,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8a7c935dee03fc3",
+  "active": "952a494e6ab58534",
   "lastOpenFiles": [
+    "cyborgt8/Cyborg.md",
+    "cyborgt8/Pasted/Pasted image 20230722103424.png",
+    "cyborgt8/Pasted/Pasted image 20230722102307.png",
+    "parrotpost/ParrotPost - Phishing Analysis.md",
     "parrotpost/Pasted/Pasted image 20230721061717.png",
     "Pasted image 20230721061513.png",
     "parrotpost/Pasted/Pasted image 20230721061604.png",
     "parrotpost/Pasted/Pasted image 20230721061417.png",
-    "parrotpost/ParrotPost - Phishing Analysis.md",
     "cyborgt8/Pasted/Pasted image 20230718075448.png",
     "parrotpost/Pasted",
     "parrotpost",
-    "cyborgt8/Cyborg.md",
     "cyborgt8/Pasted/Pasted image 20230718091426.png",
     "linuxstrengthtraining/Linux Strength Training.md",
     "cyborgt8/Pasted/Pasted image 20230718085422.png",
     "cyborgt8/Pasted/Pasted image 20230718085124.png",
-    "cyborgt8/Pasted/Pasted image 20230718085017.png",
-    "cyborgt8/Pasted/Pasted image 20230718080918.png",
     "cyborgt8/Pasted",
     "redisl33t/Red.md",
     "cyborgt8",

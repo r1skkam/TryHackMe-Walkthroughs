@@ -93,3 +93,30 @@ music_archive:$apr1$BpZ.Q.1m$F0qqPwHSOG50URuOVQTTn.
 ```
 hashcat --force -m 1600 -a 0 /usr/share/wordlists/rockyou.txt
 ```
+
+### 22072023Sat
+
+[Cyborg Writeup(My box!) | fieldraccoon](https://fieldraccoon.github.io/posts/Cyborg/)
+
+![[Pasted image 20230722102307.png]]
+
+```
+hashcat --force -m 1600 -a 0 /usr/share/wordlists/rockyou.txt passwd_hash
+```
+
+```
+ssh alex@10.10.195.198
+```
+
+```
+S3cretP@s3
+```
+
+```
+flag{1_hop3_y0u_ke3p_th3_arch1v3s_saf3}
+```
+
+![[Pasted image 20230722103424.png]]
+
+
+

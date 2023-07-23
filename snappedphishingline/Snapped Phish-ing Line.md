@@ -43,3 +43,4 @@ https://www.youtube.com/@djalilayed
 
 [# Snapped "Phish"-ing Line - TryHackMe](https://youtu.be/ZOTw6dv4T9w)
 
+![[Pasted image 20230723085122.png]]

@@ -20,4 +20,4 @@ total 40
 -rw-r--r-- 1 kali kali 15560 Jul 20 23:30  URGENTParrotPostAccountUpdateRequired.eml
 ```
 
-
+![[Pasted image 20230723084517.png]]

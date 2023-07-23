@@ -152,3 +152,4 @@ grep query output.txt | grep -Eo '[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}' | sort -u
 
 ![[Pasted image 20230619214429.png]]
 
+![[Pasted image 20230723085629.png]]

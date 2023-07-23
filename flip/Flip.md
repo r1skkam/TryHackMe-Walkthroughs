@@ -98,3 +98,5 @@ e674c3715bdf293878d4969515b7faef
 THM{FliP_DaT_B1t_oR_G3t_Fl1pP3d}
 ```
 
+![[Pasted image 20230723084012.png]]
+

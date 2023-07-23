@@ -554,4 +554,4 @@ Flag{6$8$hyJSJ3KDJ3881}
 
 https://www.youtube.com/@MotasemHamdan
 
-
+![[Pasted image 20230723084135.png]]

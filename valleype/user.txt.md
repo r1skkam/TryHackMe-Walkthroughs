@@ -1,3 +1,0 @@
-siemDev
-valleyDev
-valley

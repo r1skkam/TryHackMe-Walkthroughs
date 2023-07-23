@@ -1,3 +1,0 @@
-california
-ph0t0s1234
-liberty123

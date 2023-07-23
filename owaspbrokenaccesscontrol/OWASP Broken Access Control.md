@@ -50,3 +50,4 @@ ping 10.10.208.69
 
 ![[Pasted image 20230701210147.png]]
 
+![[Pasted image 20230723084349.png]]

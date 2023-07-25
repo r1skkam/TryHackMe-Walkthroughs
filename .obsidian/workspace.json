@@ -11,11 +11,9 @@
             "id": "b8a7c935dee03fc3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "breachingad/Breaching Active Directory.md",
-                "mode": "source",
-                "source": false
+                "file": "breachingad/Pasted/Pasted image 20230725144838.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "breachingad/Breaching Active Directory.md",
+                "file": "breachingad/Pasted/Pasted image 20230725144838.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "breachingad/Breaching Active Directory.md",
+                "file": "breachingad/Pasted/Pasted image 20230725144838.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "breachingad/Breaching Active Directory.md"
+                "file": "breachingad/Pasted/Pasted image 20230725144838.png"
               }
             }
           }
@@ -148,16 +146,24 @@
   },
   "active": "952a494e6ab58534",
   "lastOpenFiles": [
+    "breachingad/Breaching Active Directory.md",
+    "breachingad/Pasted/Pasted image 20230725160438.png",
+    "breachingad/Pasted/Pasted image 20230725160407.png",
+    "breachingad/Pasted/Pasted image 20230725155644.png",
+    "breachingad/Pasted/Pasted image 20230725155233.png",
+    "breachingad/Pasted/Pasted image 20230725154742.png",
+    "breachingad/Pasted/Pasted image 20230725152614.png",
+    "breachingad/Pasted/Pasted image 20230725152655.png",
+    "breachingad/Pasted/Pasted image 20230725152723.png",
+    "breachingad/Pasted/Pasted image 20230725153251.png",
+    "breachingad/Pasted/Pasted image 20230725153638.png",
     "WIP",
     "Completed",
-    "breachingad/Pasted/Pasted image 20230725143900.png",
     "README.md",
-    "breachingad/Breaching Active Directory.md",
     "breachingad/Pasted",
     "breachingad",
     "Completed/seasurfer/Sea Surfer.md",
     "Completed/seasurfer/Sea Surfer.pdf",
-    "Completed/seasurfer/Pasted/Pasted image 20230723091013.png",
     "Completed/seasurfer/Pasted",
     "Completed/seasurfer",
     "Completed/valleype/valleype.md",
@@ -165,28 +171,19 @@
     "Completed/valleype/misc/dev.js.md",
     "Completed/valleype/misc/dev1243224123123.html.md",
     "Completed/valleype/misc",
-    "Completed/valleype/Pasted/Pasted image 20230723090424.png",
     "Completed/valleype/Pasted",
     "Completed/valleype/misc/valleype.html.md",
     "Completed/valleype/misc/valleyAuthenticator.md",
     "Completed/valleype/misc/user.txt.md",
     "Completed/threatintelligenceforsoc/Threat Intelligence for SOC.md",
-    "Completed/threatintelligenceforsoc/Threat Intelligence for SOC.pdf",
-    "Completed/threatintelligenceforsoc/Pasted/Pasted image 20230723085629.png",
     "WIP/sqlilab/SQL Injection Lab.md",
     "Completed/solar/Solar exploiting log4j.md",
-    "Completed/solar/Pasted-solar/Pasted image 20230723085231.png",
     "Completed/snappedphishingline/Snapped Phish-ing Line.md",
-    "Completed/snappedphishingline/Pasted/Pasted image 20230723085122.png",
     "Completed/redisl33t/Red.md",
-    "Completed/redisl33t/Pasted/Pasted image 20230723084924.png",
     "WIP/raceconditions/raceconditions.md",
     "Completed/parrotpost/ParrotPost - Phishing Analysis.md",
-    "Completed/parrotpost/Pasted/Pasted image 20230723084517.png",
     "Completed/owaspbrokenaccesscontrol/OWASP Broken Access Control.md",
-    "Completed/owaspbrokenaccesscontrol/Pasted/Pasted image 20230723084349.png",
     "Completed/linuxstrengthtraining/Linux Strength Training.md",
-    "Completed/linuxstrengthtraining/Pasted/Pasted image 20230723084135.png",
     "Completed/flip/Flip.md",
     "Completed/catpictures2/Cat Pictures 2.md",
     "Completed/cyborgt8/Cyborg.md",

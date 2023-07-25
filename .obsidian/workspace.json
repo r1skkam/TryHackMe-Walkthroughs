@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "breachingad/Breaching Active Directory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "breachingad/Breaching Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "breachingad/Breaching Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "breachingad/Breaching Active Directory.md"
               }
             }
           }
@@ -146,52 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8a7c935dee03fc3",
+  "active": "952a494e6ab58534",
   "lastOpenFiles": [
-    "seasurfer/Sea Surfer.md",
-    "seasurfer/Sea Surfer.pdf",
-    "seasurfer/Pasted/Pasted image 20230723091013.png",
-    "seasurfer/Pasted",
-    "seasurfer",
-    "valleype/valleype.md",
-    "valleype/valleype.pdf",
-    "valleype/misc/dev.js.md",
-    "valleype/misc/dev1243224123123.html.md",
-    "valleype/misc",
-    "valleype/Pasted/Pasted image 20230723090424.png",
-    "valleype/Pasted",
-    "valleype/misc/valleype.html.md",
-    "valleype/misc/valleyAuthenticator.md",
-    "valleype/misc/user.txt.md",
+    "WIP",
+    "Completed",
+    "breachingad/Pasted/Pasted image 20230725143900.png",
     "README.md",
-    "threatintelligenceforsoc/Threat Intelligence for SOC.md",
-    "threatintelligenceforsoc/Threat Intelligence for SOC.pdf",
-    "threatintelligenceforsoc/Pasted/Pasted image 20230723085629.png",
-    "sqlilab/SQL Injection Lab.md",
-    "solar/Solar exploiting log4j.md",
-    "solar/Solar exploiting log4j.pdf",
-    "solar/Pasted-solar/Pasted image 20230723085231.png",
-    "snappedphishingline/Snapped Phish-ing Line.md",
-    "snappedphishingline/Snapped Phish-ing Line.pdf",
-    "snappedphishingline/Pasted/Pasted image 20230723085122.png",
-    "redisl33t/Red.md",
-    "redisl33t/Red.pdf",
-    "redisl33t/Pasted/Pasted image 20230723084924.png",
-    "raceconditions/raceconditions.md",
-    "parrotpost/ParrotPost - Phishing Analysis.md",
-    "parrotpost/Pasted/Pasted image 20230723084517.png",
-    "owaspbrokenaccesscontrol/OWASP Broken Access Control.md",
-    "owaspbrokenaccesscontrol/Pasted/Pasted image 20230723084349.png",
-    "linuxstrengthtraining/Linux Strength Training.md",
-    "linuxstrengthtraining/Pasted/Pasted image 20230723084135.png",
-    "flip/Flip.md",
-    "flip/Pasted/Pasted image 20230723084012.png",
-    "catpictures2/Cat Pictures 2.md",
-    "cyborgt8/Cyborg.md",
+    "breachingad/Breaching Active Directory.md",
+    "breachingad/Pasted",
+    "breachingad",
+    "Completed/seasurfer/Sea Surfer.md",
+    "Completed/seasurfer/Sea Surfer.pdf",
+    "Completed/seasurfer/Pasted/Pasted image 20230723091013.png",
+    "Completed/seasurfer/Pasted",
+    "Completed/seasurfer",
+    "Completed/valleype/valleype.md",
+    "Completed/valleype/valleype.pdf",
+    "Completed/valleype/misc/dev.js.md",
+    "Completed/valleype/misc/dev1243224123123.html.md",
+    "Completed/valleype/misc",
+    "Completed/valleype/Pasted/Pasted image 20230723090424.png",
+    "Completed/valleype/Pasted",
+    "Completed/valleype/misc/valleype.html.md",
+    "Completed/valleype/misc/valleyAuthenticator.md",
+    "Completed/valleype/misc/user.txt.md",
+    "Completed/threatintelligenceforsoc/Threat Intelligence for SOC.md",
+    "Completed/threatintelligenceforsoc/Threat Intelligence for SOC.pdf",
+    "Completed/threatintelligenceforsoc/Pasted/Pasted image 20230723085629.png",
+    "WIP/sqlilab/SQL Injection Lab.md",
+    "Completed/solar/Solar exploiting log4j.md",
+    "Completed/solar/Pasted-solar/Pasted image 20230723085231.png",
+    "Completed/snappedphishingline/Snapped Phish-ing Line.md",
+    "Completed/snappedphishingline/Pasted/Pasted image 20230723085122.png",
+    "Completed/redisl33t/Red.md",
+    "Completed/redisl33t/Pasted/Pasted image 20230723084924.png",
+    "WIP/raceconditions/raceconditions.md",
+    "Completed/parrotpost/ParrotPost - Phishing Analysis.md",
+    "Completed/parrotpost/Pasted/Pasted image 20230723084517.png",
+    "Completed/owaspbrokenaccesscontrol/OWASP Broken Access Control.md",
+    "Completed/owaspbrokenaccesscontrol/Pasted/Pasted image 20230723084349.png",
+    "Completed/linuxstrengthtraining/Linux Strength Training.md",
+    "Completed/linuxstrengthtraining/Pasted/Pasted image 20230723084135.png",
+    "Completed/flip/Flip.md",
+    "Completed/catpictures2/Cat Pictures 2.md",
+    "Completed/cyborgt8/Cyborg.md",
     "raceconditions/anti_flag_reader.c.md",
     "raceconditions/bankingsystem.c.md",
     "raceconditions/cat2.c.md",
-    "valleype/misc/ssh.md",
-    "valleype/misc/pass.txt.md"
+    "Completed/valleype/misc/ssh.md"
   ]
 }

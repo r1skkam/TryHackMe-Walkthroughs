@@ -13,3 +13,6 @@ To learn basic concepts regarding Active Directory attacks and mitigation measur
 ![[Pasted image 20230726081246.png]]
 
 ![[Pasted image 20230726083631.png]]
+
+### 27072023Thu
+

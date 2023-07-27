@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "activedirectoryhardening/Active Directory Hardening.md",
+                "file": "splunkexploringspl/Splunk - Exploring SPL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "activedirectoryhardening/Active Directory Hardening.md",
+                "file": "splunkexploringspl/Splunk - Exploring SPL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "activedirectoryhardening/Active Directory Hardening.md",
+                "file": "splunkexploringspl/Splunk - Exploring SPL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "activedirectoryhardening/Active Directory Hardening.md"
+                "file": "splunkexploringspl/Splunk - Exploring SPL.md"
               }
             }
           }
@@ -146,10 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8a7c935dee03fc3",
+  "active": "952a494e6ab58534",
   "lastOpenFiles": [
-    "activedirectoryhardening/Pasted/Pasted image 20230726080936.png",
+    "splunkexploringspl/Pasted/Pasted image 20230727132914.png",
     "activedirectoryhardening/Active Directory Hardening.md",
+    "splunkexploringspl/Splunk - Exploring SPL.md",
+    "splunkexploringspl/Pasted",
+    "splunkexploringspl",
+    "activedirectoryhardening/Pasted/Pasted image 20230726080936.png",
     "activedirectoryhardening/Pasted/Pasted image 20230726083631.png",
     "activedirectoryhardening/Pasted/Pasted image 20230726081246.png",
     "activedirectoryhardening/Pasted/Pasted image 20230726081207.png",
@@ -170,9 +174,7 @@
     "Completed/seasurfer/Sea Surfer.md",
     "Completed/seasurfer/Sea Surfer.pdf",
     "Completed/seasurfer/Pasted",
-    "Completed/seasurfer",
     "Completed/valleype/valleype.md",
-    "Completed/valleype/valleype.pdf",
     "Completed/valleype/misc/dev.js.md",
     "Completed/valleype/misc/dev1243224123123.html.md",
     "Completed/valleype/misc/valleype.html.md",
@@ -191,7 +193,6 @@
     "Completed/catpictures2/Cat Pictures 2.md",
     "Completed/cyborgt8/Cyborg.md",
     "raceconditions/anti_flag_reader.c.md",
-    "raceconditions/bankingsystem.c.md",
-    "raceconditions/cat2.c.md"
+    "raceconditions/bankingsystem.c.md"
   ]
 }

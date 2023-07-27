@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "splunkexploringspl/Splunk - Exploring SPL.md",
+                "file": "Completed/splunkexploringspl/Splunk - Exploring SPL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "splunkexploringspl/Splunk - Exploring SPL.md",
+                "file": "Completed/splunkexploringspl/Splunk - Exploring SPL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "splunkexploringspl/Splunk - Exploring SPL.md",
+                "file": "Completed/splunkexploringspl/Splunk - Exploring SPL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "splunkexploringspl/Splunk - Exploring SPL.md"
+                "file": "Completed/splunkexploringspl/Splunk - Exploring SPL.md"
               }
             }
           }
@@ -146,25 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8a7c935dee03fc3",
+  "active": "952a494e6ab58534",
   "lastOpenFiles": [
-    "splunkexploringspl/Pasted/Pasted image 20230727155410.png",
-    "splunkexploringspl/Pasted/Pasted image 20230727154746.png",
-    "splunkexploringspl/Pasted/Pasted image 20230727154239.png",
-    "splunkexploringspl/Pasted/Pasted image 20230727154028.png",
-    "splunkexploringspl/Pasted/Pasted image 20230727153731.png",
-    "splunkexploringspl/Pasted/Pasted image 20230727151833.png",
-    "splunkexploringspl/Pasted/Pasted image 20230727151320.png",
-    "splunkexploringspl/Pasted/Pasted image 20230727150749.png",
-    "splunkexploringspl/Pasted/Pasted image 20230727150548.png",
-    "splunkexploringspl/Splunk - Exploring SPL.md",
+    "Completed/splunkexploringspl/Splunk - Exploring SPL.pdf",
+    "Completed/splunkexploringspl/Pasted/Pasted image 20230727202856.png",
+    "Completed/splunkexploringspl/Splunk - Exploring SPL.md",
+    "Completed/splunkexploringspl/Pasted/Pasted image 20230727213102.png",
+    "Completed/splunkexploringspl/Pasted/Pasted image 20230727212912.png",
+    "Completed/splunkexploringspl/Pasted/Pasted image 20230727210335.png",
+    "Completed/splunkexploringspl/Pasted/Pasted image 20230727210209.png",
+    "Completed/splunkexploringspl/Pasted/Pasted image 20230727205400.png",
+    "Completed/splunkexploringspl/Pasted/Pasted image 20230727205136.png",
+    "Completed/splunkexploringspl/Pasted/Pasted image 20230727204735.png",
+    "Completed/splunkexploringspl/Pasted/Pasted image 20230727204354.png",
+    "Completed/splunkexploringspl/Pasted/Pasted image 20230727155410.png",
     "activedirectoryhardening/SplitPolicyRule.ps1",
     "activedirectoryhardening/MergePolicyRule.ps1",
     "activedirectoryhardening/BaselineLocalInstall.ps1",
-    "splunkexploringspl/Pasted/Pasted image 20230727135351.png",
     "activedirectoryhardening/Active Directory Hardening.md",
-    "splunkexploringspl/Pasted",
-    "splunkexploringspl",
+    "Completed/splunkexploringspl/Pasted",
+    "Completed/splunkexploringspl",
     "breachingad/Breaching Active Directory.md",
     "activedirectoryhardening/Pasted",
     "activedirectoryhardening",

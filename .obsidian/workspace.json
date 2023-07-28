@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Completed/splunkexploringspl/Splunk - Exploring SPL.md",
+                "file": "posheclipse/PS Eclipse.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Completed/splunkexploringspl/Splunk - Exploring SPL.md",
+                "file": "posheclipse/PS Eclipse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Completed/splunkexploringspl/Splunk - Exploring SPL.md",
+                "file": "posheclipse/PS Eclipse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Completed/splunkexploringspl/Splunk - Exploring SPL.md"
+                "file": "posheclipse/PS Eclipse.md"
               }
             }
           }
@@ -146,20 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "952a494e6ab58534",
+  "active": "b8a7c935dee03fc3",
   "lastOpenFiles": [
+    "posheclipse/Pasted/Pasted image 20230728113213.png",
+    "posheclipse/PS Eclipse.md",
+    "posheclipse/Pasted/Pasted image 20230728125504.png",
+    "posheclipse/Pasted/Pasted image 20230728114652.png",
+    "posheclipse/Pasted/Pasted image 20230728114535.png",
+    "posheclipse/Pasted/Pasted image 20230728113305.png",
+    "Completed/splunkexploringspl/Splunk - Exploring SPL.md",
+    "posheclipse/Pasted",
+    "posheclipse",
     "Completed/splunkexploringspl/Splunk - Exploring SPL.pdf",
     "Completed/splunkexploringspl/Pasted/Pasted image 20230727202856.png",
-    "Completed/splunkexploringspl/Splunk - Exploring SPL.md",
     "Completed/splunkexploringspl/Pasted/Pasted image 20230727213102.png",
     "Completed/splunkexploringspl/Pasted/Pasted image 20230727212912.png",
     "Completed/splunkexploringspl/Pasted/Pasted image 20230727210335.png",
     "Completed/splunkexploringspl/Pasted/Pasted image 20230727210209.png",
-    "Completed/splunkexploringspl/Pasted/Pasted image 20230727205400.png",
-    "Completed/splunkexploringspl/Pasted/Pasted image 20230727205136.png",
-    "Completed/splunkexploringspl/Pasted/Pasted image 20230727204735.png",
-    "Completed/splunkexploringspl/Pasted/Pasted image 20230727204354.png",
-    "Completed/splunkexploringspl/Pasted/Pasted image 20230727155410.png",
     "activedirectoryhardening/SplitPolicyRule.ps1",
     "activedirectoryhardening/MergePolicyRule.ps1",
     "activedirectoryhardening/BaselineLocalInstall.ps1",
@@ -169,10 +172,7 @@
     "breachingad/Breaching Active Directory.md",
     "activedirectoryhardening/Pasted",
     "activedirectoryhardening",
-    "WIP",
-    "Completed",
     "README.md",
-    "breachingad/Pasted",
     "Completed/seasurfer/Sea Surfer.md",
     "Completed/valleype/valleype.md",
     "Completed/valleype/misc/dev.js.md",
@@ -192,7 +192,6 @@
     "Completed/flip/Flip.md",
     "Completed/catpictures2/Cat Pictures 2.md",
     "Completed/cyborgt8/Cyborg.md",
-    "raceconditions/anti_flag_reader.c.md",
-    "raceconditions/bankingsystem.c.md"
+    "raceconditions/anti_flag_reader.c.md"
   ]
 }

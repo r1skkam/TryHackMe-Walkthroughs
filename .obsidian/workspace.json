@@ -11,11 +11,9 @@
             "id": "b8a7c935dee03fc3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "forgottenimplant/Forgotten Implant.md",
-                "mode": "source",
-                "source": false
+                "file": "forgottenimplant/Pasted/Pasted image 20230801121740.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forgottenimplant/Forgotten Implant.md",
+                "file": "forgottenimplant/Pasted/Pasted image 20230801121740.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "forgottenimplant/Forgotten Implant.md",
+                "file": "forgottenimplant/Pasted/Pasted image 20230801121740.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "forgottenimplant/Forgotten Implant.md"
+                "file": "forgottenimplant/Pasted/Pasted image 20230801121740.png"
               }
             }
           }
@@ -146,23 +144,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8a7c935dee03fc3",
+  "active": "952a494e6ab58534",
   "lastOpenFiles": [
-    "forgottenimplant/Pasted/Pasted image 20230801091135.png",
     "forgottenimplant/Forgotten Implant.md",
-    "forgottenimplant/Pasted/Pasted image 20230801104848.png",
+    "forgottenimplant/Pasted/Pasted image 20230801123155.png",
+    "forgottenimplant/sniffer.py",
+    "forgottenimplant/Pasted/Pasted image 20230801121740.png",
+    "forgottenimplant/Pasted/Pasted image 20230801110627.png",
+    "forgottenimplant/Pasted/Pasted image 20230801120711.png",
+    "forgottenimplant/Pasted/Pasted image 20230801113728.png",
+    "forgottenimplant/Pasted/Pasted image 20230801113409.png",
+    "forgottenimplant/Pasted/Pasted image 20230801113247.png",
+    "forgottenimplant/Pasted/Pasted image 20230801112721.png",
+    "forgottenimplant/Pasted/Pasted image 20230801112702.png",
+    "forgottenimplant/Pasted/Pasted image 20230801111445.png",
     "forgottenimplant/products.py",
-    "forgottenimplant/Pasted/Pasted image 20230801103741.png",
-    "forgottenimplant/Pasted/Pasted image 20230801103604.png",
-    "forgottenimplant/Pasted/Pasted image 20230801102900.png",
     "forgottenimplant/forgottenimplant.py",
-    "forgottenimplant/Pasted/Pasted image 20230801100534.png",
-    "forgottenimplant/Pasted/Pasted image 20230801100223.png",
-    "Completed/posheclipse/Pasted/Pasted image 20230731181824.png",
     "Completed/posheclipse/PS Eclipse.md",
     "Completed/posheclipse/PS Eclipse.pdf",
-    "Completed/posheclipse/Pasted/Pasted image 20230731182225.png",
-    "Completed/posheclipse/Pasted/Pasted image 20230731182202.png",
     "forgottenimplant/Pasted",
     "forgottenimplant",
     "Completed/splunkexploringspl/Splunk - Exploring SPL.md",
@@ -170,7 +169,6 @@
     "Completed/posheclipse",
     "Completed/splunkexploringspl/Splunk - Exploring SPL.pdf",
     "activedirectoryhardening/SplitPolicyRule.ps1",
-    "activedirectoryhardening/MergePolicyRule.ps1",
     "activedirectoryhardening/Active Directory Hardening.md",
     "breachingad/Breaching Active Directory.md",
     "README.md",

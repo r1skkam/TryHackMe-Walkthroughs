@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wreath/Wreath.md",
+                "file": "cve202338408/CVE-2023-38408.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wreath/Wreath.md",
+                "file": "cve202338408/CVE-2023-38408.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wreath/Wreath.md",
+                "file": "cve202338408/CVE-2023-38408.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wreath/Wreath.md"
+                "file": "cve202338408/CVE-2023-38408.md"
               }
             }
           }
@@ -159,21 +159,25 @@
   },
   "active": "e4c2befc25e60eb6",
   "lastOpenFiles": [
-    "wreath/Pasted/Pasted image 20230805101536.png",
+    "cve202338408/Pasted/Pasted image 20230808091957.png",
+    "cve202338408/Pasted",
+    "cve202338408/CVE-2023-38408.md",
+    "cve202338408/Pasted/Pasted image 20230808110352.png",
+    "cve202338408/Pasted/Pasted image 20230808110134.png",
+    "cve202338408/Pasted/Pasted image 20230808105146.png",
+    "cve202338408/Pasted/Pasted image 20230808104959.png",
+    "cve202338408/Pasted/Pasted image 20230808104806.png",
+    "cve202338408/Pasted/Pasted image 20230808104604.png",
+    "cve202338408/Pasted/Pasted image 20230808104049.png",
+    "cve202338408/Pasted/Pasted image 20230808094728.png",
+    "cve202338408/Pasted/Pasted image 20230808093607.png",
+    "cve202338408/Pasted/Pasted image 20230808093522.png",
     "wreath/Wreath.md",
+    "cve202338408",
     "forgottenimplant/Forgotten Implant.md",
     "wreath/Pasted",
     "wreath",
-    "forgottenimplant/Pasted/Pasted image 20230801123155.png",
     "forgottenimplant/sniffer.py",
-    "forgottenimplant/Pasted/Pasted image 20230801121740.png",
-    "forgottenimplant/Pasted/Pasted image 20230801110627.png",
-    "forgottenimplant/Pasted/Pasted image 20230801120711.png",
-    "forgottenimplant/Pasted/Pasted image 20230801113728.png",
-    "forgottenimplant/Pasted/Pasted image 20230801113409.png",
-    "forgottenimplant/Pasted/Pasted image 20230801113247.png",
-    "forgottenimplant/Pasted/Pasted image 20230801112721.png",
-    "forgottenimplant/Pasted/Pasted image 20230801112702.png",
     "forgottenimplant/products.py",
     "forgottenimplant/forgottenimplant.py",
     "Completed/posheclipse/PS Eclipse.md",
@@ -181,8 +185,6 @@
     "forgottenimplant/Pasted",
     "forgottenimplant",
     "Completed/splunkexploringspl/Splunk - Exploring SPL.md",
-    "Completed/posheclipse/Pasted",
-    "Completed/posheclipse",
     "activedirectoryhardening/Active Directory Hardening.md",
     "breachingad/Breaching Active Directory.md",
     "README.md",
@@ -202,7 +204,6 @@
     "Completed/parrotpost/ParrotPost - Phishing Analysis.md",
     "Completed/owaspbrokenaccesscontrol/OWASP Broken Access Control.md",
     "Completed/linuxstrengthtraining/Linux Strength Training.md",
-    "Completed/flip/Flip.md",
-    "Completed/catpictures2/Cat Pictures 2.md"
+    "Completed/flip/Flip.md"
   ]
 }

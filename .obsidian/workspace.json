@@ -21,9 +21,11 @@
             "id": "e4c2befc25e60eb6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "0day/Pasted/Pasted image 20230808130809.png"
+                "file": "Completed/0day/0day.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0day/Pasted/Pasted image 20230808130809.png",
+                "file": "Completed/0day/0day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0day/Pasted/Pasted image 20230808130809.png",
+                "file": "Completed/0day/0day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0day/Pasted/Pasted image 20230808130809.png"
+                "file": "Completed/0day/0day.md"
               }
             }
           }
@@ -157,21 +159,22 @@
   },
   "active": "952a494e6ab58534",
   "lastOpenFiles": [
-    "0day/0day.md",
-    "0day/Pasted/Pasted image 20230808140801.png",
-    "0day/Pasted/Pasted image 20230808132638.png",
-    "0day/Pasted/Pasted image 20230808132610.png",
-    "0day/Pasted/Pasted image 20230808132234.png",
-    "0day/Pasted/Pasted image 20230808132054.png",
-    "0day/Pasted/Pasted image 20230808131900.png",
-    "0day/Pasted/Pasted image 20230808131034.png",
-    "0day/Pasted/Pasted image 20230808130809.png",
-    "0day/Pasted/Pasted image 20230808114325.png",
-    "0day/Pasted/Pasted image 20230808125809.png",
-    "0day/0day.html",
-    "0day/Pasted",
+    "Completed/0day/0day.pdf",
+    "Completed/0day/Pasted/Pasted image 20230808172143.png",
+    "Completed/0day/0day.md",
+    "Completed/0day/Pasted/Pasted image 20230808172326.png",
+    "Completed/0day/Pasted/Pasted image 20230808161225.png",
+    "Completed/0day/Pasted/Pasted image 20230808170624.png",
+    "Completed/0day/Pasted/Pasted image 20230808170337.png",
+    "Completed/0day/Pasted/Pasted image 20230808164223.png",
+    "Completed/0day/Pasted/Pasted image 20230808164203.png",
+    "Completed/0day/Pasted/Pasted image 20230808162601.png",
+    "Completed/0day/Pasted/Pasted image 20230808162110.png",
+    "Completed/0day/Pasted/Pasted image 20230808161913.png",
+    "Completed/0day/0day.html",
+    "Completed/0day/Pasted",
     "cve202338408/CVE-2023-38408.md",
-    "0day",
+    "Completed/0day",
     "cve202338408/Pasted",
     "wreath/Wreath.md",
     "cve202338408",

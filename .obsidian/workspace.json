@@ -159,6 +159,7 @@
   },
   "active": "952a494e6ab58534",
   "lastOpenFiles": [
+    "CVE",
     "Completed/0day/0day.pdf",
     "Completed/0day/Pasted/Pasted image 20230808172143.png",
     "Completed/0day/0day.md",
@@ -183,7 +184,6 @@
     "wreath",
     "forgottenimplant/sniffer.py",
     "forgottenimplant/products.py",
-    "forgottenimplant/forgottenimplant.py",
     "Completed/posheclipse/PS Eclipse.md",
     "Completed/splunkexploringspl/Splunk - Exploring SPL.md",
     "activedirectoryhardening/Active Directory Hardening.md",

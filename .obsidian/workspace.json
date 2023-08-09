@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Completed/0day/0day.md",
+                "file": "intelcreationandcontainment/Threat Intel & Containment.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forgottenimplant/Pasted/Pasted image 20230801121740.png",
+                "file": "intelcreationandcontainment/Threat Intel & Containment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "forgottenimplant/Pasted/Pasted image 20230801121740.png",
+                "file": "intelcreationandcontainment/Threat Intel & Containment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "forgottenimplant/Pasted/Pasted image 20230801121740.png"
+                "file": "intelcreationandcontainment/Threat Intel & Containment.md"
               }
             }
           }
@@ -157,8 +157,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "952a494e6ab58534",
+  "active": "e4c2befc25e60eb6",
   "lastOpenFiles": [
+    "intelcreationandcontainment/Pasted/3a0043abe6dc7408c9e47f0579e3ecc7.png",
+    "intelcreationandcontainment/Threat Intel & Containment.md",
+    "intelcreationandcontainment/Pasted/Pasted image 20230809084017.png",
+    "Untitled 1.png",
+    "Untitled.png",
+    "intelcreationandcontainment/Pasted/Pasted image 20230809082910.png",
+    "forgottenimplant/Pasted/Pasted image 20230801121740.png",
+    "intelcreationandcontainment/Pasted",
+    "intelcreationandcontainment",
     "CVE",
     "Completed/0day/0day.pdf",
     "Completed/0day/Pasted/Pasted image 20230808172143.png",
@@ -166,12 +175,6 @@
     "Completed/0day/Pasted/Pasted image 20230808172326.png",
     "Completed/0day/Pasted/Pasted image 20230808161225.png",
     "Completed/0day/Pasted/Pasted image 20230808170624.png",
-    "Completed/0day/Pasted/Pasted image 20230808170337.png",
-    "Completed/0day/Pasted/Pasted image 20230808164223.png",
-    "Completed/0day/Pasted/Pasted image 20230808164203.png",
-    "Completed/0day/Pasted/Pasted image 20230808162601.png",
-    "Completed/0day/Pasted/Pasted image 20230808162110.png",
-    "Completed/0day/Pasted/Pasted image 20230808161913.png",
     "Completed/0day/0day.html",
     "Completed/0day/Pasted",
     "cve202338408/CVE-2023-38408.md",
@@ -181,9 +184,6 @@
     "cve202338408",
     "forgottenimplant/Forgotten Implant.md",
     "wreath/Pasted",
-    "wreath",
-    "forgottenimplant/sniffer.py",
-    "forgottenimplant/products.py",
     "Completed/posheclipse/PS Eclipse.md",
     "Completed/splunkexploringspl/Splunk - Exploring SPL.md",
     "activedirectoryhardening/Active Directory Hardening.md",
@@ -203,7 +203,6 @@
     "Completed/redisl33t/Red.md",
     "WIP/raceconditions/raceconditions.md",
     "Completed/parrotpost/ParrotPost - Phishing Analysis.md",
-    "Completed/owaspbrokenaccesscontrol/OWASP Broken Access Control.md",
-    "Completed/linuxstrengthtraining/Linux Strength Training.md"
+    "Completed/owaspbrokenaccesscontrol/OWASP Broken Access Control.md"
   ]
 }

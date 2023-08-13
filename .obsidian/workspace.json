@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "securityengineerintro/Security Engineer Intro.md",
+                "file": "crylo4a/Crylo.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "securityengineerintro/Security Engineer Intro.md",
+                "file": "crylo4a/Crylo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "securityengineerintro/Security Engineer Intro.md",
+                "file": "crylo4a/Crylo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "securityengineerintro/Security Engineer Intro.md"
+                "file": "crylo4a/Crylo.md"
               }
             }
           }
@@ -159,30 +159,30 @@
   },
   "active": "e4c2befc25e60eb6",
   "lastOpenFiles": [
-    "securityengineerintro/Security Engineer Intro.pdf",
-    "securityengineerintro/Pasted/Pasted image 20230811224809.png",
-    "securityengineerintro/Pasted/Pasted image 20230811224641.png",
-    "securityengineerintro/Pasted/Pasted image 20230810175621.png",
-    "securityengineerintro/Security Engineer Intro.md",
-    "THM-ITZ8KVQO1C-Pre Security Learning Path.png",
+    "crylo4a/Pasted/Pasted image 20230813105628.png",
+    "crylo4a/Crylo.md",
+    "crylo4a/Pasted/Pasted image 20230812154026.png",
+    "crylo4a/2fa.js",
+    "crylo4a/crylo4a-ChatGPT.txt",
+    "crylo4a/crylo4a.js",
+    "crylo4a/Pasted/Pasted image 20230812165728.png",
+    "crylo4a/Pasted/Pasted image 20230812165633.png",
+    "crylo4a/Pasted/Pasted image 20230812163214.png",
+    "crylo4a/Pasted/Pasted image 20230812162945.png",
+    "crylo4a/Pasted/Pasted image 20230812162754.png",
+    "crylo4a/Pasted/Pasted image 20230812162546.png",
+    "crylo4a/Pasted/Pasted image 20230812160833.png",
+    "crylo4a/Pasted/Pasted image 20230812160603.png",
+    "Completed/securityengineerintro/Security Engineer Intro.md",
+    "crylo4a/Pasted",
+    "crylo4a",
+    "Completed/securityengineerintro/Security Engineer Intro.pdf",
     "Completed/intelcreationandcontainment/Threat Intel & Containment.md",
-    "securityengineerintro/Pasted",
-    "securityengineerintro",
+    "Completed/securityengineerintro/Pasted",
+    "Completed/securityengineerintro",
     "Completed/intelcreationandcontainment/Threat Intel & Containment.pdf",
-    "Completed/intelcreationandcontainment/Pasted/Pasted image 20230810171026.png",
-    "Completed/intelcreationandcontainment/Pasted/Pasted image 20230810171746.png",
     "Completed/intelcreationandcontainment/504-incident-response-cycle.pdf",
-    "Completed/intelcreationandcontainment/nist.sp.800-61r2.pdf",
-    "Untitled 1.png",
-    "Untitled.png",
-    "Completed/intelcreationandcontainment/Pasted/3a0043abe6dc7408c9e47f0579e3ecc7.png",
-    "Completed/intelcreationandcontainment/Pasted/Pasted image 20230809084017.png",
-    "Completed/intelcreationandcontainment/Pasted",
-    "Completed/intelcreationandcontainment",
-    "CVE",
-    "Completed/0day/0day.pdf",
     "Completed/0day/0day.md",
-    "Completed/0day/0day.html",
     "cve202338408/CVE-2023-38408.md",
     "wreath/Wreath.md",
     "forgottenimplant/Forgotten Implant.md",
@@ -203,7 +203,6 @@
     "Completed/solar/Solar exploiting log4j.md",
     "Completed/snappedphishingline/Snapped Phish-ing Line.md",
     "Completed/redisl33t/Red.md",
-    "WIP/raceconditions/raceconditions.md",
-    "Completed/parrotpost/ParrotPost - Phishing Analysis.md"
+    "WIP/raceconditions/raceconditions.md"
   ]
 }

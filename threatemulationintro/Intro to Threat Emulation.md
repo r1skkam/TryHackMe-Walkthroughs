@@ -50,3 +50,4 @@ https://github.com/center-for-threat-informed-defense/adversary_emulation_librar
 https://github.com/center-for-threat-informed-defense/adversary_emulation_library/tree/6a5b0413dbe2761d2cb08afe2729d6cf9d021ab6/micro_emulation_plans
 ![[Pasted image 20230818081546.png]]
 
+

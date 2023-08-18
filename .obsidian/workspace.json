@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Completed/raceconditions/raceconditions.md",
+                "file": "threatemulationintro/Intro to Threat Emulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Completed/raceconditions/raceconditions.md",
+                "file": "threatemulationintro/Intro to Threat Emulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Completed/raceconditions/raceconditions.md",
+                "file": "threatemulationintro/Intro to Threat Emulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Completed/raceconditions/raceconditions.md"
+                "file": "threatemulationintro/Intro to Threat Emulation.md"
               }
             }
           }
@@ -159,18 +159,23 @@
   },
   "active": "e4c2befc25e60eb6",
   "lastOpenFiles": [
-    "Completed/raceconditions/raceconditions.pdf",
-    "Completed/raceconditions/Pasted/Pasted image 20230815002916.png",
+    "threatemulationintro/Pasted/Pasted image 20230817085544.png",
+    "threatemulationintro/Intro to Threat Emulation.md",
+    "threatemulationintro/Pasted/Pasted image 20230818081546.png",
+    "threatemulationintro/Pasted/Pasted image 20230818081509.png",
+    "threatemulationintro/Pasted/Pasted image 20230818081413.png",
+    "threatemulationintro/Pasted/Pasted image 20230818081048.png",
+    "threatemulationintro/Pasted/Pasted image 20230818080941.png",
+    "threatemulationintro/Pasted/Pasted image 20230818080855.png",
+    "threatemulationintro/ecb.tiber_eu_framework.en.pdf",
+    "threatemulationintro/Pasted/Pasted image 20230818080618.png",
+    "threatemulationintro/Pasted/Pasted image 20230818080531.png",
+    "threatemulationintro/Pasted/Pasted image 20230818080309.png",
+    "threatemulationintro/Pasted/Pasted image 20230818080244.png",
     "Completed/raceconditions/raceconditions.md",
-    "Completed/raceconditions/Pasted/Pasted image 20230815012600.png",
-    "Completed/raceconditions/Pasted/Pasted image 20230815012521.png",
-    "Completed/raceconditions/Pasted/Pasted image 20230815012448.png",
-    "Completed/raceconditions/Pasted/Pasted image 20230815012026.png",
-    "Completed/raceconditions/Pasted/Pasted image 20230815011946.png",
-    "Completed/raceconditions/Pasted/Pasted image 20230815010024.png",
-    "Completed/raceconditions/Pasted/Pasted image 20230815005853.png",
-    "Completed/raceconditions/Pasted/Pasted image 20230815005538.png",
-    "Completed/raceconditions/Pasted/Pasted image 20230815004843.png",
+    "threatemulationintro/Pasted",
+    "threatemulationintro",
+    "Completed/raceconditions/raceconditions.pdf",
     "crylo4a/Crylo.md",
     "crylo4a/dump_file.sql",
     "crylo4a/2fa.js",
@@ -179,11 +184,7 @@
     "Completed/securityengineerintro/Security Engineer Intro.md",
     "crylo4a/Pasted",
     "crylo4a",
-    "Completed/securityengineerintro/Security Engineer Intro.pdf",
     "Completed/intelcreationandcontainment/Threat Intel & Containment.md",
-    "Completed/securityengineerintro/Pasted",
-    "Completed/securityengineerintro",
-    "Completed/intelcreationandcontainment/Threat Intel & Containment.pdf",
     "Completed/0day/0day.md",
     "cve202338408/CVE-2023-38408.md",
     "wreath/Wreath.md",
@@ -203,7 +204,6 @@
     "Completed/threatintelligenceforsoc/Threat Intelligence for SOC.md",
     "WIP/sqlilab/SQL Injection Lab.md",
     "Completed/solar/Solar exploiting log4j.md",
-    "Completed/snappedphishingline/Snapped Phish-ing Line.md",
-    "Completed/redisl33t/Red.md"
+    "Completed/snappedphishingline/Snapped Phish-ing Line.md"
   ]
 }

@@ -21,11 +21,9 @@
             "id": "e4c2befc25e60eb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "threatemulationintro/Intro to Threat Emulation.md",
-                "mode": "source",
-                "source": false
+                "file": "greprtp/Pasted/Pasted image 20230819184219.png"
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "threatemulationintro/Intro to Threat Emulation.md",
+                "file": "greprtp/Pasted/Pasted image 20230819184219.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "threatemulationintro/Intro to Threat Emulation.md",
+                "file": "greprtp/Pasted/Pasted image 20230819184219.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "threatemulationintro/Intro to Threat Emulation.md"
+                "file": "greprtp/Pasted/Pasted image 20230819184219.png"
               }
             }
           }
@@ -157,10 +155,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4c2befc25e60eb6",
+  "active": "952a494e6ab58534",
   "lastOpenFiles": [
-    "threatemulationintro/Pasted/Pasted image 20230817085544.png",
+    "greprtp/Grep.md",
+    "greprtp/Pasted/Pasted image 20230819184219.png",
+    "greprtp/Pasted",
     "threatemulationintro/Intro to Threat Emulation.md",
+    "greprtp",
+    "threatemulationintro/Pasted/Pasted image 20230817085544.png",
     "threatemulationintro/Pasted/Pasted image 20230818081546.png",
     "threatemulationintro/Pasted/Pasted image 20230818081509.png",
     "threatemulationintro/Pasted/Pasted image 20230818081413.png",
@@ -170,8 +172,6 @@
     "threatemulationintro/ecb.tiber_eu_framework.en.pdf",
     "threatemulationintro/Pasted/Pasted image 20230818080618.png",
     "threatemulationintro/Pasted/Pasted image 20230818080531.png",
-    "threatemulationintro/Pasted/Pasted image 20230818080309.png",
-    "threatemulationintro/Pasted/Pasted image 20230818080244.png",
     "Completed/raceconditions/raceconditions.md",
     "threatemulationintro/Pasted",
     "threatemulationintro",
@@ -182,8 +182,6 @@
     "crylo4a/crylo4a-ChatGPT.txt",
     "crylo4a/crylo4a.js",
     "Completed/securityengineerintro/Security Engineer Intro.md",
-    "crylo4a/Pasted",
-    "crylo4a",
     "Completed/intelcreationandcontainment/Threat Intel & Containment.md",
     "Completed/0day/0day.md",
     "cve202338408/CVE-2023-38408.md",
@@ -203,7 +201,6 @@
     "Completed/valleype/misc/user.txt.md",
     "Completed/threatintelligenceforsoc/Threat Intelligence for SOC.md",
     "WIP/sqlilab/SQL Injection Lab.md",
-    "Completed/solar/Solar exploiting log4j.md",
-    "Completed/snappedphishingline/Snapped Phish-ing Line.md"
+    "Completed/solar/Solar exploiting log4j.md"
   ]
 }

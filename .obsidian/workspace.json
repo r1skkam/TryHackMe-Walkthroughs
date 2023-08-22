@@ -21,11 +21,9 @@
             "id": "e4c2befc25e60eb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "threatemulationintro/Intro to Threat Emulation.md",
-                "mode": "source",
-                "source": false
+                "file": "threatemulationintro/Pasted/Pasted image 20230822054516.png"
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "threatemulationintro/Intro to Threat Emulation.md",
+                "file": "threatemulationintro/Pasted/Pasted image 20230822054516.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "threatemulationintro/Intro to Threat Emulation.md",
+                "file": "threatemulationintro/Pasted/Pasted image 20230822054516.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "threatemulationintro/Intro to Threat Emulation.md"
+                "file": "threatemulationintro/Pasted/Pasted image 20230822054516.png"
               }
             }
           }
@@ -157,23 +155,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4c2befc25e60eb6",
+  "active": "952a494e6ab58534",
   "lastOpenFiles": [
-    "Pasted image 20230822054516.png",
-    "Pasted image 20230822054410.png",
-    "Pasted image 20230822054232.png",
-    "Pasted image 20230822054050.png",
-    "Pasted image 20230822053950.png",
-    "Pasted image 20230822053923.png",
+    "threatemulationintro/Pasted/Pasted image 20230822054410.png",
+    "threatemulationintro/Pasted/Pasted image 20230822054232.png",
+    "threatemulationintro/Pasted/Pasted image 20230822054050.png",
+    "threatemulationintro/Pasted/Pasted image 20230822053950.png",
+    "threatemulationintro/Pasted/Pasted image 20230822053923.png",
+    "threatemulationintro/Intro to Threat Emulation.md",
+    "threatemulationintro/Pasted/Pasted image 20230822054516.png",
     "forgottenimplant/Pasted/Pasted image 20230801121740.png",
     "greprtp/Grep.md",
     "greprtp/Pasted/Pasted image 20230819184219.png",
     "greprtp/Pasted",
-    "threatemulationintro/Intro to Threat Emulation.md",
     "greprtp",
     "threatemulationintro/Pasted/Pasted image 20230817085544.png",
     "threatemulationintro/Pasted/Pasted image 20230818081546.png",
-    "threatemulationintro/Pasted/Pasted image 20230818081509.png",
     "threatemulationintro/ecb.tiber_eu_framework.en.pdf",
     "Completed/raceconditions/raceconditions.md",
     "threatemulationintro/Pasted",

@@ -62,4 +62,15 @@ https://github.com/center-for-threat-informed-defense/adversary_emulation_librar
 THM{C4RB0N_$P1D3R_1$_F1N7}
 ```
 
+## 23082023Wed
 
+![[Pasted image 20230823092935.png]]
+![[Pasted image 20230823093031.png]]
+![[Pasted image 20230823093242.png]]
+![[Pasted image 20230823093453.png]]
+![[Pasted image 20230823093641.png]]
+
+```
+THM{3$P1ON4G3_F0R_R34P3R}
+```
+![[Pasted image 20230823093713.png]]

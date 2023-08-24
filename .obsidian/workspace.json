@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8a7c935dee03fc3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "forgottenimplant/Pasted/Pasted image 20230801121740.png"
-              }
-            }
-          },
-          {
             "id": "e4c2befc25e60eb6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "threatemulationintro/Pasted/Pasted image 20230823092935.png"
+                "file": "identificationandscoping/Identification & Scoping.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "threatemulationintro/Pasted/Pasted image 20230823092935.png",
+                "file": "identificationandscoping/Identification & Scoping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "threatemulationintro/Pasted/Pasted image 20230823092935.png",
+                "file": "identificationandscoping/Identification & Scoping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "threatemulationintro/Pasted/Pasted image 20230823092935.png"
+                "file": "identificationandscoping/Identification & Scoping.md"
               }
             }
           }
@@ -155,19 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "952a494e6ab58534",
+  "active": "e4c2befc25e60eb6",
   "lastOpenFiles": [
+    "identificationandscoping/Pasted/Pasted image 20230824112018.png",
+    "identificationandscoping/Pasted/Pasted image 20230824094311.png",
+    "identificationandscoping/Identification & Scoping.md",
     "threatemulationintro/Intro to Threat Emulation.md",
+    "identificationandscoping/Pasted",
+    "identificationandscoping",
+    "forgottenimplant/Pasted/Pasted image 20230801121740.png",
+    "threatemulationintro/Pasted/Pasted image 20230823092935.png",
     "threatemulationintro/Pasted/Pasted image 20230823093713.png",
     "threatemulationintro/Pasted/Pasted image 20230823093641.png",
     "threatemulationintro/Pasted/Pasted image 20230823093517.png",
     "threatemulationintro/Pasted/Pasted image 20230823093453.png",
     "threatemulationintro/Pasted/Pasted image 20230823093242.png",
     "threatemulationintro/Pasted/Pasted image 20230823093031.png",
-    "threatemulationintro/Pasted/Pasted image 20230823092935.png",
-    "threatemulationintro/Pasted/Pasted image 20230822054516.png",
-    "threatemulationintro/Pasted/Pasted image 20230822054410.png",
-    "threatemulationintro/Pasted/Pasted image 20230822054232.png",
     "greprtp/Grep.md",
     "greprtp/Pasted",
     "greprtp",
@@ -179,8 +173,6 @@
     "crylo4a/Crylo.md",
     "crylo4a/dump_file.sql",
     "crylo4a/2fa.js",
-    "crylo4a/crylo4a-ChatGPT.txt",
-    "crylo4a/crylo4a.js",
     "Completed/securityengineerintro/Security Engineer Intro.md",
     "Completed/intelcreationandcontainment/Threat Intel & Containment.md",
     "Completed/0day/0day.md",
@@ -200,7 +192,6 @@
     "Completed/valleype/misc/valleyAuthenticator.md",
     "Completed/valleype/misc/user.txt.md",
     "Completed/threatintelligenceforsoc/Threat Intelligence for SOC.md",
-    "WIP/sqlilab/SQL Injection Lab.md",
-    "Completed/solar/Solar exploiting log4j.md"
+    "WIP/sqlilab/SQL Injection Lab.md"
   ]
 }

@@ -11,11 +11,9 @@
             "id": "e4c2befc25e60eb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "identificationandscoping/Identification & Scoping.md",
-                "mode": "source",
-                "source": false
+                "file": "lessonlearned/Pasted/Pasted image 20230826174902.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "identificationandscoping/Identification & Scoping.md",
+                "file": "lessonlearned/Pasted/Pasted image 20230826174902.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "identificationandscoping/Identification & Scoping.md",
+                "file": "lessonlearned/Pasted/Pasted image 20230826174902.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "identificationandscoping/Identification & Scoping.md"
+                "file": "lessonlearned/Pasted/Pasted image 20230826174902.png"
               }
             }
           }
@@ -146,22 +144,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4c2befc25e60eb6",
+  "active": "952a494e6ab58534",
   "lastOpenFiles": [
+    "lessonlearned/Lesson Learned.md",
+    "lessonlearned/Pasted/Pasted image 20230826183137.png",
+    "lessonlearned/Pasted/Pasted image 20230826182624.png",
+    "lessonlearned/Pasted/Pasted image 20230826175037.png",
+    "lessonlearned/Pasted/Pasted image 20230826174951.png",
+    "lessonlearned/Pasted/Pasted image 20230826174902.png",
+    "identificationandscoping/Identification & Scoping.md",
+    "lessonlearned/Pasted",
+    "lessonlearned",
     "identificationandscoping/Pasted/Pasted image 20230824112018.png",
     "identificationandscoping/Pasted/Pasted image 20230824094311.png",
-    "identificationandscoping/Identification & Scoping.md",
     "threatemulationintro/Intro to Threat Emulation.md",
     "identificationandscoping/Pasted",
     "identificationandscoping",
     "forgottenimplant/Pasted/Pasted image 20230801121740.png",
     "threatemulationintro/Pasted/Pasted image 20230823092935.png",
     "threatemulationintro/Pasted/Pasted image 20230823093713.png",
-    "threatemulationintro/Pasted/Pasted image 20230823093641.png",
-    "threatemulationintro/Pasted/Pasted image 20230823093517.png",
-    "threatemulationintro/Pasted/Pasted image 20230823093453.png",
-    "threatemulationintro/Pasted/Pasted image 20230823093242.png",
-    "threatemulationintro/Pasted/Pasted image 20230823093031.png",
     "greprtp/Grep.md",
     "greprtp/Pasted",
     "greprtp",
@@ -171,8 +172,6 @@
     "threatemulationintro",
     "Completed/raceconditions/raceconditions.pdf",
     "crylo4a/Crylo.md",
-    "crylo4a/dump_file.sql",
-    "crylo4a/2fa.js",
     "Completed/securityengineerintro/Security Engineer Intro.md",
     "Completed/intelcreationandcontainment/Threat Intel & Containment.md",
     "Completed/0day/0day.md",
@@ -191,7 +190,6 @@
     "Completed/valleype/misc/valleype.html.md",
     "Completed/valleype/misc/valleyAuthenticator.md",
     "Completed/valleype/misc/user.txt.md",
-    "Completed/threatintelligenceforsoc/Threat Intelligence for SOC.md",
-    "WIP/sqlilab/SQL Injection Lab.md"
+    "Completed/threatintelligenceforsoc/Threat Intelligence for SOC.md"
   ]
 }

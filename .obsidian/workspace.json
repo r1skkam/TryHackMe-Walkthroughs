@@ -11,9 +11,11 @@
             "id": "e4c2befc25e60eb6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "lessonlearned/Pasted/Pasted image 20230826174902.png"
+                "file": "Completed/lessonlearned/Lesson Learned.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lessonlearned/Pasted/Pasted image 20230826174902.png",
+                "file": "Completed/lessonlearned/Lesson Learned.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lessonlearned/Pasted/Pasted image 20230826174902.png",
+                "file": "Completed/lessonlearned/Lesson Learned.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lessonlearned/Pasted/Pasted image 20230826174902.png"
+                "file": "Completed/lessonlearned/Lesson Learned.md"
               }
             }
           }
@@ -144,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "952a494e6ab58534",
+  "active": "e4c2befc25e60eb6",
   "lastOpenFiles": [
-    "lessonlearned/Lesson Learned.md",
-    "lessonlearned/Pasted/Pasted image 20230826183137.png",
-    "lessonlearned/Pasted/Pasted image 20230826182624.png",
-    "lessonlearned/Pasted/Pasted image 20230826175037.png",
-    "lessonlearned/Pasted/Pasted image 20230826174951.png",
-    "lessonlearned/Pasted/Pasted image 20230826174902.png",
+    "Completed/lessonlearned/Pasted/Pasted image 20230826174902.png",
+    "Completed/lessonlearned/Lesson Learned.md",
+    "Completed/lessonlearned/Pasted/Pasted image 20230826183137.png",
+    "Completed/lessonlearned/Pasted/Pasted image 20230826182624.png",
+    "Completed/lessonlearned/Pasted/Pasted image 20230826175037.png",
+    "Completed/lessonlearned/Pasted/Pasted image 20230826174951.png",
     "identificationandscoping/Identification & Scoping.md",
-    "lessonlearned/Pasted",
-    "lessonlearned",
+    "Completed/lessonlearned/Pasted",
+    "Completed/lessonlearned",
     "identificationandscoping/Pasted/Pasted image 20230824112018.png",
     "identificationandscoping/Pasted/Pasted image 20230824094311.png",
     "threatemulationintro/Intro to Threat Emulation.md",

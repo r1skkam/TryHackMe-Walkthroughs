@@ -11,9 +11,11 @@
             "id": "e4c2befc25e60eb6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Screenshot 2023-08-28 093219.png"
+                "file": "introtologs/Intro to Logs.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Screenshot 2023-08-28 093219.png",
+                "file": "introtologs/Intro to Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Screenshot 2023-08-28 093219.png",
+                "file": "introtologs/Intro to Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Screenshot 2023-08-28 093219.png"
+                "file": "introtologs/Intro to Logs.md"
               }
             }
           }
@@ -146,8 +148,13 @@
   },
   "active": "e4c2befc25e60eb6",
   "lastOpenFiles": [
-    "Screenshot 2023-08-28 093043.png",
+    "Pasted image 20230830054949.png",
+    "identificationandscoping/Identification & Scoping.md",
+    "introtologs/Intro to Logs.md",
+    "introtologs/Pasted",
+    "introtologs",
     "Screenshot 2023-08-28 093219.png",
+    "Screenshot 2023-08-28 093043.png",
     "Completed/lessonlearned/Lesson Learned.md",
     "Completed/lessonlearned/Lesson Learned.pdf",
     "Completed/lessonlearned/Pasted/Pasted image 20230826174902.png",
@@ -155,7 +162,6 @@
     "Completed/lessonlearned/Pasted/Pasted image 20230826182624.png",
     "Completed/lessonlearned/Pasted/Pasted image 20230826175037.png",
     "Completed/lessonlearned/Pasted/Pasted image 20230826174951.png",
-    "identificationandscoping/Identification & Scoping.md",
     "Completed/lessonlearned/Pasted",
     "Completed/lessonlearned",
     "identificationandscoping/Pasted/Pasted image 20230824112018.png",
@@ -164,14 +170,11 @@
     "identificationandscoping/Pasted",
     "identificationandscoping",
     "forgottenimplant/Pasted/Pasted image 20230801121740.png",
-    "threatemulationintro/Pasted/Pasted image 20230823092935.png",
     "greprtp/Grep.md",
     "greprtp/Pasted",
     "greprtp",
     "threatemulationintro/ecb.tiber_eu_framework.en.pdf",
     "Completed/raceconditions/raceconditions.md",
-    "threatemulationintro/Pasted",
-    "threatemulationintro",
     "crylo4a/Crylo.md",
     "Completed/securityengineerintro/Security Engineer Intro.md",
     "Completed/intelcreationandcontainment/Threat Intel & Containment.md",
@@ -190,7 +193,6 @@
     "Completed/valleype/misc/dev1243224123123.html.md",
     "Completed/valleype/misc/valleype.html.md",
     "Completed/valleype/misc/valleyAuthenticator.md",
-    "Completed/valleype/misc/user.txt.md",
-    "Completed/threatintelligenceforsoc/Threat Intelligence for SOC.md"
+    "Completed/valleype/misc/user.txt.md"
   ]
 }

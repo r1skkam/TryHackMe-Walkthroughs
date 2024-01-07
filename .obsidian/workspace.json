@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WhyHackMe/whyhackme.md",
+                "file": "tomghost/tomghost.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WhyHackMe/whyhackme.md",
+                "file": "tomghost/tomghost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WhyHackMe/whyhackme.md",
+                "file": "tomghost/tomghost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WhyHackMe/whyhackme.md"
+                "file": "tomghost/tomghost.md"
               }
             }
           }
@@ -148,13 +148,18 @@
   },
   "active": "e4c2befc25e60eb6",
   "lastOpenFiles": [
+    "tomghost/Pasted image 20240107163447.png",
+    "tomghost/Pasted image 20240107163415.png",
+    "WhyHackMe/whyhackme.md",
+    "tomghost/tomghost.md",
+    "tomghost",
+    "WhyHackMe/Pasted image 20240107145653.png",
     "WhyHackMe/Pasted image 20240106102241.png",
     "WhyHackMe/Pasted image 20240106102158.png",
     "WhyHackMe/Pasted image 20240106102021.png",
     "Screenshot 2023-08-28 093043.png",
     "Screenshot 2023-08-28 093219.png",
     "Screenshot 2023-10-18 185040.png",
-    "WhyHackMe/whyhackme.md",
     "Pasted image 20240106101834.png",
     "introtologs/Intro to Logs.md",
     "WhyHackMe",
@@ -164,9 +169,6 @@
     "introtologs",
     "Completed/lessonlearned/Lesson Learned.md",
     "Completed/lessonlearned/Lesson Learned.pdf",
-    "Completed/lessonlearned/Pasted/Pasted image 20230826174902.png",
-    "Completed/lessonlearned/Pasted/Pasted image 20230826183137.png",
-    "Completed/lessonlearned/Pasted/Pasted image 20230826182624.png",
     "Completed/lessonlearned/Pasted",
     "Completed/lessonlearned",
     "threatemulationintro/Intro to Threat Emulation.md",
@@ -174,7 +176,6 @@
     "identificationandscoping",
     "greprtp/Grep.md",
     "greprtp/Pasted",
-    "greprtp",
     "Completed/raceconditions/raceconditions.md",
     "crylo4a/Crylo.md",
     "Completed/securityengineerintro/Security Engineer Intro.md",
@@ -192,7 +193,6 @@
     "Completed/valleype/valleype.md",
     "Completed/valleype/misc/dev.js.md",
     "Completed/valleype/misc/dev1243224123123.html.md",
-    "Completed/valleype/misc/valleype.html.md",
-    "Completed/valleype/misc/valleyAuthenticator.md"
+    "Completed/valleype/misc/valleype.html.md"
   ]
 }

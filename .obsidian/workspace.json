@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tomghost/tomghost.md",
+                "file": "WhyHackMe/whyhackme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tomghost/tomghost.md",
+                "file": "WhyHackMe/whyhackme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tomghost/tomghost.md",
+                "file": "WhyHackMe/whyhackme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tomghost/tomghost.md"
+                "file": "WhyHackMe/whyhackme.md"
               }
             }
           }
@@ -148,22 +148,22 @@
   },
   "active": "e4c2befc25e60eb6",
   "lastOpenFiles": [
-    "tomghost/Pasted image 20240107163447.png",
-    "tomghost/Pasted image 20240107163415.png",
-    "WhyHackMe/whyhackme.md",
+    "WhyHackMe/Pasted image 20240109231215.png",
+    "WhyHackMe/Pasted image 20240109230701.png",
+    "WhyHackMe/Pasted image 20240109225721.png",
+    "WhyHackMe/Pasted image 20240109225646.png",
+    "WhyHackMe/Pasted image 20240109224453.png",
+    "WhyHackMe/Pasted image 20240109223916.png",
+    "WhyHackMe/Pasted image 20240109223748.png",
+    "WhyHackMe/Pasted image 20240109213846.png",
+    "WhyHackMe/Pasted image 20240109212133.png",
+    "WhyHackMe/Pasted image 20240109211850.png",
+    "WhyHackMe/Pasted image 20240109210812.png",
     "tomghost/tomghost.md",
+    "WhyHackMe/whyhackme.md",
     "tomghost",
-    "WhyHackMe/Pasted image 20240107145653.png",
-    "WhyHackMe/Pasted image 20240106102241.png",
-    "WhyHackMe/Pasted image 20240106102158.png",
-    "WhyHackMe/Pasted image 20240106102021.png",
-    "Screenshot 2023-08-28 093043.png",
-    "Screenshot 2023-08-28 093219.png",
-    "Screenshot 2023-10-18 185040.png",
-    "Pasted image 20240106101834.png",
     "introtologs/Intro to Logs.md",
     "WhyHackMe",
-    "Pasted image 20230830054949.png",
     "identificationandscoping/Identification & Scoping.md",
     "introtologs/Pasted",
     "introtologs",

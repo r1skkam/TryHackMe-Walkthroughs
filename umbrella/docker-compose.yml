@@ -1,0 +1,19 @@
+version: '3.3'
+services:
+  db:
+    image: mysql:5.7
+    restart: always
+    environment:
+      MYSQL_DATABASE: 'timetracking'
+      MYSQL_ROOT_PASSWORD: 'Ng1-f3!Pe7-e5?Nf3xe5'
+    ports:
+      - '3306:3306'     
+    volumes:
+      - ./db:/docker-entrypoint-initdb.d
+  app:
+    image: umbrella/timetracking:latest
+    restart: always
+    ports:
+      - '8080:8080'
+    volumes:
+      - ./logs:/logs

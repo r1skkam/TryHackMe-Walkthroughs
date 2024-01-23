@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+        <head>
+                <meta charset="utf-8">
+                <meta name="viewport" content="width=device-width,minimum-scale=1">
+                <title>Time Tracking</title>
+        <link href="css/style.css" rel="stylesheet" type="text/css">
+        </head>
+        <body>
+        
+        <div class="container">
+
+
+
+                        <div class="panel">
+                                <h1>Increase time spent</h1>
+                                <p>Pro Tip: You can also use mathematical expressions, e.g. <span class="code">5+4</span></p>
+                                <form action="/time" method="post">
+                                        <input type="text" name="time" placeholder="time in min..." id="time" required>
+                                        <input type="submit" value="Submit">
+                                </form>
+                        </div>
+
+                        <div class= "panel">
+                                <h1>Time Tracking Statistics</h1>
+
+                                <!-- design credit to https://codepen.io/faaezahmd/pen/dJeRex-->
+                                <ul>
+                                        <li class="table-header">
+                                          <div class="col col-1">User</div>
+                                          <div class="col col-2">Time spent</div>                                         
+                                        </li>
+
+                                        <% users.forEach((user)=> { %>
+                                                <li class="table-row">
+                                                        <div class="col col-1" data-label="User"><%= user.name %></div>
+                                                        <div class="col col-2" data-label="Time"><%= user.time %></div>
+                                                  </li>
+                                        <% }) %>
+                                </ul>
+
+                        </div>
+                </div>
+
+        </body>

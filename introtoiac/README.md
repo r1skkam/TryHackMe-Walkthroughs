@@ -44,4 +44,5 @@ THM{l4b_C0mpl3x_co0rds}
 
 *The Repeatable (Infra Creation + Config) Phases*
 
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/7cc402ac-0ec9-465e-ac48-db2c3c96134b)
 

@@ -1,0 +1,18 @@
+# Nmap 7.94SVN scan initiated Sat Feb 24 19:34:22 2024 as: nmap -sC -sV -p- --open -Pn -oN nmap.txt 10.10.150.219
+Nmap scan report for 10.10.150.219
+Host is up (0.35s latency).
+Not shown: 65498 closed tcp ports (reset), 35 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.5 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   3072 ff:8c:c9:bb:9c:6f:6e:12:92:c0:96:0f:b5:58:c6:f8 (RSA)
+|   256 67:ff:d4:09:ee:2c:8d:eb:94:b3:af:17:8e:dc:94:ae (ECDSA)
+|_  256 81:0e:b2:0e:f6:64:76:3c:c3:39:72:c1:29:59:c3:3c (ED25519)
+80/tcp open  http    nginx 1.18.0 (Ubuntu)
+|_http-title: Jack Of All Trades
+|_http-server-header: nginx/1.18.0 (Ubuntu)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat Feb 24 19:36:24 2024 -- 1 IP address (1 host up) scanned in 121.70 seconds

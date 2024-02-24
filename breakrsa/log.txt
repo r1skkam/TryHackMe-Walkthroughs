@@ -1,0 +1,9 @@
+The library we are using to generate SSH keys implements RSA poorly. The two
+randomly selected prime numbers (p and q) are very close to one another. Such
+bad keys can easily be broken with Fermat's factorization method.
+
+Also, SSH root login is enabled.
+
+<https://github.com/murtaza-u/zet/tree/main/20220808171808>
+
+---

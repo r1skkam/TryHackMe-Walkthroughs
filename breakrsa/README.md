@@ -18,3 +18,16 @@ ssh-keygen -lf id_rsa.pub
 
 https://github.com/murtaza-u/zet/tree/main/20220808171808
 
+*Walkthrough/Writeup* -->
+
+https://nyxs-documentation.gitbook.io/rooms-and-ctfs/tryhackme/breaking-rsa
+
+https://onlineblogzone.com/tryhackme-breaking-rsa-write-up/
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/9ffacda6-658b-46fb-a4ba-f90b73262745)
+
+```
+breakingRSAissuperfun20220809134031
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/eb744881-fb34-4f4a-be69-4b6dce43beb1)

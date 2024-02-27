@@ -39,3 +39,27 @@ ssh willow@10.10.148.21 -i rsa.key -o 'PubkeyAcceptedKeyTypes +ssh-rsa'
 
 ![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/470e3be7-dbab-4c85-84c2-1daf71e12330)
 
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/147eaa02-65c0-4f06-a5b8-46328671be84)
+
+```
+sudo /bin/mount /dev/hidden_backup /tmp/share
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/c82db270-d53c-47dc-9630-ea842f3fe7f6)
+
+```
+root:7QvbvBTvwPspUK
+willow:U0ZZJLGYhNAT2s
+```
+
+```
+scp willow@10.10.134.255:/home/willow/user.jpg /home/kali/thm/willow
+```
+
+```
+steghide extract -sf user.jpg
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/2f975dac-97c8-444e-b07e-f630cb16e741)
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/1358831c-a998-461d-8e45-9ba2d17433d3)

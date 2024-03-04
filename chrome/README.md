@@ -18,3 +18,6 @@ In Wireshark, File -> Export Object -> SMB
 
 https://youtu.be/di36ikYANI0
 
+https://github.com/ohyicong/decrypt-chrome-passwords
+
+https://github.com/hadrian3689/chrome_password_decryption

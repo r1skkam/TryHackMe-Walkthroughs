@@ -1,0 +1,97 @@
+# Nmap 7.94SVN scan initiated Fri Mar  8 09:25:45 2024 as: nmap -sC -sV -p- --open -Pn -oN nmap.txt 10.10.201.196
+Nmap scan report for 10.10.201.196
+Host is up (0.28s latency).
+Not shown: 65531 closed tcp ports (reset)
+PORT     STATE SERVICE       VERSION
+22/tcp   open  ssh           OpenSSH 8.2p1 Ubuntu 4ubuntu0.11 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   3072 48:d2:69:d8:c3:3a:7f:b2:d7:f6:a5:9b:48:ad:08:69 (RSA)
+|   256 8e:c5:40:f5:a9:c3:b7:52:05:2f:43:03:02:52:cb:ed (ECDSA)
+|_  256 95:a2:62:f1:ca:e4:f9:98:c7:dc:f1:9a:39:47:0e:99 (ED25519)
+8000/tcp open  ssl/http      nginx 1.23.2
+| ssl-cert: Subject: commonName=localhost
+| Subject Alternative Name: DNS:localhost
+| Not valid before: 2021-04-10T06:51:56
+|_Not valid after:  2031-04-08T06:51:56
+|_http-server-header: nginx/1.23.2
+| http-title: The Social Network
+|_Requested resource was /post/12315198742342
+|_ssl-date: TLS randomness does not represent time
+8100/tcp open  ssl/http      nginx 1.23.2
+|_http-server-header: nginx/1.23.2
+|_http-title: HTTP/2 Request Smuggling Lab
+| tls-alpn: 
+|   h2
+|_  http/1.1
+| ssl-cert: Subject: organizationName=Internet Widgits Pty Ltd/stateOrProvinceName=Some-State/countryName=AU
+| Not valid before: 2024-01-02T21:27:03
+|_Not valid after:  3023-05-05T21:27:03
+|_ssl-date: TLS randomness does not represent time
+8200/tcp open  ssl/trivnet1?
+|_ssl-date: TLS randomness does not represent time
+| ssl-cert: Subject: organizationName=Internet Widgits Pty Ltd/stateOrProvinceName=Some-State/countryName=AU
+| Not valid before: 2024-01-02T21:27:03
+|_Not valid after:  3023-05-05T21:27:03
+| fingerprint-strings: 
+|   DNSStatusRequestTCP, DNSVersionBindReqTCP, Help, RPCCheck: 
+|     HTTP/1.1 400 Bad request
+|     content-length: 90
+|     cache-control: no-cache
+|     content-type: text/html
+|     connection: close
+|     <html><body><h1>400 Bad request</h1>
+|     Your browser sent an invalid request.
+|     </body></html>
+|   GetRequest: 
+|     HTTP/1.0 200 OK
+|     date: Fri, 08 Mar 2024 02:57:34 GMT
+|     content-length: 157
+|     content-type: text/html; charset=utf-8
+|     <html><body>Welcome to our intranet. The <a href='/private'>private</a> part of the application can only be accessed from the internal network.</body></html>
+|   HTTPOptions: 
+|     HTTP/1.0 200 OK
+|     date: Fri, 08 Mar 2024 02:57:35 GMT
+|     content-length: 157
+|     content-type: text/html; charset=utf-8
+|     <html><body>Welcome to our intranet. The <a href='/private'>private</a> part of the application can only be accessed from the internal network.</body></html>
+|   RTSPRequest: 
+|     HTTP/1.1 400 Bad Request
+|     content-type: text/plain; charset=utf-8
+|     connection: close
+|_    Request
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port8200-TCP:V=7.94SVN%T=SSL%I=7%D=3/8%Time=65EA7E99%P=x86_64-pc-linux-
+SF:gnu%r(GetRequest,112,"HTTP/1\.0\x20200\x20OK\r\ndate:\x20Fri,\x2008\x20
+SF:Mar\x202024\x2002:57:34\x20GMT\r\ncontent-length:\x20157\r\ncontent-typ
+SF:e:\x20text/html;\x20charset=utf-8\r\n\r\n<html><body>Welcome\x20to\x20o
+SF:ur\x20intranet\.\x20The\x20<a\x20href='/private'>private</a>\x20part\x2
+SF:0of\x20the\x20application\x20can\x20only\x20be\x20accessed\x20from\x20t
+SF:he\x20internal\x20network\.</body></html>")%r(HTTPOptions,112,"HTTP/1\.
+SF:0\x20200\x20OK\r\ndate:\x20Fri,\x2008\x20Mar\x202024\x2002:57:35\x20GMT
+SF:\r\ncontent-length:\x20157\r\ncontent-type:\x20text/html;\x20charset=ut
+SF:f-8\r\n\r\n<html><body>Welcome\x20to\x20our\x20intranet\.\x20The\x20<a\
+SF:x20href='/private'>private</a>\x20part\x20of\x20the\x20application\x20c
+SF:an\x20only\x20be\x20accessed\x20from\x20the\x20internal\x20network\.</b
+SF:ody></html>")%r(RTSPRequest,67,"HTTP/1\.1\x20400\x20Bad\x20Request\r\nc
+SF:ontent-type:\x20text/plain;\x20charset=utf-8\r\nconnection:\x20close\r\
+SF:n\r\n400\x20Bad\x20Request")%r(RPCCheck,CF,"HTTP/1\.1\x20400\x20Bad\x20
+SF:request\r\ncontent-length:\x2090\r\ncache-control:\x20no-cache\r\nconte
+SF:nt-type:\x20text/html\r\nconnection:\x20close\r\n\r\n<html><body><h1>40
+SF:0\x20Bad\x20request</h1>\nYour\x20browser\x20sent\x20an\x20invalid\x20r
+SF:equest\.\n</body></html>\n")%r(DNSVersionBindReqTCP,CF,"HTTP/1\.1\x2040
+SF:0\x20Bad\x20request\r\ncontent-length:\x2090\r\ncache-control:\x20no-ca
+SF:che\r\ncontent-type:\x20text/html\r\nconnection:\x20close\r\n\r\n<html>
+SF:<body><h1>400\x20Bad\x20request</h1>\nYour\x20browser\x20sent\x20an\x20
+SF:invalid\x20request\.\n</body></html>\n")%r(DNSStatusRequestTCP,CF,"HTTP
+SF:/1\.1\x20400\x20Bad\x20request\r\ncontent-length:\x2090\r\ncache-contro
+SF:l:\x20no-cache\r\ncontent-type:\x20text/html\r\nconnection:\x20close\r\
+SF:n\r\n<html><body><h1>400\x20Bad\x20request</h1>\nYour\x20browser\x20sen
+SF:t\x20an\x20invalid\x20request\.\n</body></html>\n")%r(Help,CF,"HTTP/1\.
+SF:1\x20400\x20Bad\x20request\r\ncontent-length:\x2090\r\ncache-control:\x
+SF:20no-cache\r\ncontent-type:\x20text/html\r\nconnection:\x20close\r\n\r\
+SF:n<html><body><h1>400\x20Bad\x20request</h1>\nYour\x20browser\x20sent\x2
+SF:0an\x20invalid\x20request\.\n</body></html>\n");
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Mar  8 09:28:08 2024 -- 1 IP address (1 host up) scanned in 143.13 seconds

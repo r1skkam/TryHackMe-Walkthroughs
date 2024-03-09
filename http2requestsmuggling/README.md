@@ -14,3 +14,17 @@ https://10.10.201.196:8000/post/12315198742342
 
 ![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/62675201-c0f0-49e6-a444-7fc9989d9694)
 
+**H2.CL** *HTTP/2 Content-Length header*
+
+**H2.TE** *HTTP/2 Transfer-Encoding header*
+
+**CRLF** *Carriage Return Line Feed*
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/00632133-6455-44c8-b4c3-71a4f286891a)
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/f781de7b-1797-4080-b3d7-f6b3098f2efc)
+
+```
+THM{my_name_is_a_flag}
+```
+

